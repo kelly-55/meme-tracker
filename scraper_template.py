@@ -1,0 +1,110 @@
+import re
+import json
+import asyncio
+from telethon import TelegramClient, events
+
+import os
+
+# --- Configuration ---
+# Try to get from Environment Variables (GitHub Actions), else use placeholder/local
+API_ID = os.getenv('API_ID') or 'YOUR_API_ID'
+API_HASH = os.getenv('API_HASH') or 'YOUR_API_HASH'
+CHANNELS = [ 'MomentumTrackerCN2'] # Channels to monitor
+OUTPUT_FILE = 'meme_data.json'
+
+# --- Regex for Solana/EVM Addresses ---
+# Simple regex to catch 0x... (EVM) or Base58 (Solana) strings of correct length
+CA_PATTERN = r'\b[a-zA-Z0-9]{32,44}\b' 
+
+client = TelegramClient('meme_scraper_session', API_ID, API_HASH)
+
+def extract_ca(text):
+    matches = re.findall(CA_PATTERN, text)
+    # Filter out common false positives if needed
+    return matches[0] if matches else None
+
+async def update_json(new_token):
+    try:
+        with open(OUTPUT_FILE, 'r') as f:
+            data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        data = []
+    
+    # Check for duplicates based on CA or ID
+    # Since ID might be same across runs if we fetch history, checking CA is safer for unique tokens
+    # But same CA can be mentioned again. Let's check ID to avoid re-adding same message.
+    existing_ids = set(item['id'] for item in data)
+    
+    if new_token['id'] not in existing_ids:
+        # Add new token to top
+        data.insert(0, new_token)
+        # Keep only last 100
+        data = data[:100]
+        
+        with open(OUTPUT_FILE, 'w') as f:
+            json.dump(data, f, indent=2)
+        print(f"Saved new token: {new_token['ca']}")
+    else:
+        # print(f"Token already exists: {new_token['id']}")
+        pass
+
+@client.on(events.NewMessage(chats=CHANNELS))
+async def handler(event):
+    text = event.message.message
+    ca = extract_ca(text)
+    
+    if ca:
+        print(f"Found CA: {ca} in {event.chat.title}")
+        
+        # Construct Token Object
+        new_token = {
+            "id": str(event.message.id),
+            "name": "Unknown (Fetching...)", # Frontend will fetch real name from DexScreener
+            "ca": ca,
+            "channel": event.chat.title,
+            "timestamp": event.date.timestamp()
+        }
+        
+        await update_json(new_token)
+
+async def main():
+    print("Starting Scraper...")
+    await client.start()
+    
+    # Check if running in GitHub Actions (CI environment)
+    if os.getenv('GITHUB_ACTIONS') == 'true':
+        print("Running in Batch Mode (GitHub Actions)...")
+        # Fetch last 50 messages from each channel
+        for channel in CHANNELS:
+            try:
+                print(f"Checking {channel}...")
+                async for message in client.iter_messages(channel, limit=50):
+                    if message.message:
+                        ca = extract_ca(message.message)
+                        if ca:
+                            new_token = {
+                                "id": str(message.id),
+                                "name": "Unknown", 
+                                "ca": ca,
+                                "channel": channel, # Use channel name/username
+                                "timestamp": message.date.timestamp()
+                            }
+                            # We need a way to avoid duplicates efficiently, 
+                            # but update_json handles insertion. 
+                            # Ideally we check if ID exists.
+                            await update_json(new_token)
+            except Exception as e:
+                print(f"Error scraping {channel}: {e}")
+        print("Batch scrape complete.")
+    else:
+        print("Running in Listener Mode (Local)...")
+        print("Listening for new tokens...")
+        await client.run_until_disconnected()
+
+if __name__ == '__main__':
+    # Instructions:
+    # 1. pip install telethon
+    # 2. Fill in API_ID and API_HASH
+    # 3. Run: python scraper.py
+    with client:
+        client.loop.run_until_complete(main())

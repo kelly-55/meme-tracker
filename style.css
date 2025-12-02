@@ -1,0 +1,266 @@
+:root {
+    --bg-color: #0f172a;
+    --card-bg: rgba(30, 41, 59, 0.7);
+    --card-border: rgba(255, 255, 255, 0.1);
+    --text-primary: #f8fafc;
+    --text-secondary: #94a3b8;
+    --accent-color: #38bdf8;
+    --positive: #4ade80;
+    --negative: #f87171;
+    --grid-gap: 1rem;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    min-height: 100vh;
+    overflow-y: scroll;
+}
+
+.app-container {
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 0 10px;
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    background: linear-gradient(to right, #38bdf8, #818cf8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.status-bar {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    display: flex;
+    gap: 15px;
+}
+
+.status-online {
+    color: var(--positive);
+}
+
+/* Grid Layout */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    /* Mobile default */
+    gap: var(--grid-gap);
+    padding-bottom: 50px;
+}
+
+/* Responsive Breakpoints */
+@media (min-width: 640px) {
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 768px) {
+    .grid-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 1024px) {
+    .grid-container {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media (min-width: 1280px) {
+    .grid-container {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+@media (min-width: 1440px) {
+    .grid-container {
+        grid-template-columns: repeat(6, 1fr);
+    }
+}
+
+/* Card Styles */
+.token-card {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 12px;
+    padding: 12px;
+    position: relative;
+    backdrop-filter: blur(10px);
+    transition: transform 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.27), box-shadow 0.2s ease;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    height: 160px;
+    /* Fixed height for uniformity */
+    overflow: hidden;
+    justify-content: space-between;
+    /* Distribute content */
+}
+
+/* Expanded State (Click) - Scale 3x */
+.token-card.expanded {
+    transform: scale(3);
+    z-index: 1000;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 10px 10px -5px rgba(0, 0, 0, 0.4);
+    background: #1e293b;
+    /* Solid background when zoomed to prevent transparency issues */
+    border-color: var(--accent-color);
+}
+
+/* Ensure content scales appropriately or stays readable */
+.token-card:hover .card-content {
+    /* Optional: Adjust font sizes if needed when scaled,
+       but scale(3) zooms everything.
+       We might want to keep it simple first. */
+}
+
+/* Chart Container - Background */
+.chart-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    /* Behind content */
+    opacity: 0.3;
+    /* Subtle background */
+    pointer-events: none;
+    /* Let clicks pass through */
+}
+
+canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* Content Overlay */
+.card-content-wrapper {
+    position: relative;
+    z-index: 1;
+    /* Above chart */
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    gap: 4px;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.token-name {
+    font-weight: 700;
+    font-size: 1.1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 80%;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
+    /* Better readability */
+}
+
+.delete-btn {
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    font-size: 1rem;
+    transition: all 0.2s;
+}
+
+.delete-btn:hover {
+    color: #fff;
+    background: var(--negative);
+}
+
+.token-ca {
+    font-size: 0.75rem;
+    color: #cbd5e1;
+    font-family: monospace;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 4px 6px;
+    border-radius: 4px;
+    cursor: copy;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: background 0.2s;
+    margin: 4px 0;
+}
+
+.token-ca:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: var(--accent-color);
+    color: #fff;
+}
+
+.token-ca:active {
+    transform: scale(0.98);
+}
+
+.token-metrics {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-top: 4px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+.token-price {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.token-change {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.change-up {
+    color: var(--positive);
+}
+
+.change-down {
+    color: var(--negative);
+}
+
+.community-stats {
+    font-size: 0.7rem;
+    color: var(--text-secondary);
+    display: flex;
+    flex-direction: column;
+    /* Stack for better fit */
+    gap: 2px;
+    margin-top: auto;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
+}

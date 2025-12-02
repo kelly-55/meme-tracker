@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.session
+*.session-journal
+
+# Environment variables
+.env
+
+# System
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data (Optional: if you want to start fresh on repo)
+# meme_data.json 
+# (Keep meme_data.json commented out if you want to push the initial mock data or empty file)
