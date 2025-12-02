@@ -1,14 +1,15 @@
+import os
 import re
 import json
 import asyncio
 from telethon import TelegramClient, events
-
-import os
+from telethon.sessions import StringSession
 
 # --- Configuration ---
 # Try to get from Environment Variables (GitHub Actions), else use placeholder/local
 API_ID = os.getenv('API_ID') or 'YOUR_API_ID'
 API_HASH = os.getenv('API_HASH') or 'YOUR_API_HASH'
+SESSION_STRING = os.getenv('SESSION_STRING') # New secret for CI/CD login
 CHANNELS = [ 'MomentumTrackerCN2'] # Channels to monitor
 OUTPUT_FILE = 'meme_data.json'
 
@@ -16,7 +17,23 @@ OUTPUT_FILE = 'meme_data.json'
 # Simple regex to catch 0x... (EVM) or Base58 (Solana) strings of correct length
 CA_PATTERN = r'\b[a-zA-Z0-9]{32,44}\b' 
 
-client = TelegramClient('meme_scraper_session', API_ID, API_HASH)
+# Initialize Client
+print(f"DEBUG: Running in GitHub Actions? {os.getenv('GITHUB_ACTIONS')}")
+print(f"DEBUG: API_ID present? {bool(API_ID)}")
+print(f"DEBUG: API_HASH present? {bool(API_HASH)}")
+print(f"DEBUG: SESSION_STRING length: {len(SESSION_STRING) if SESSION_STRING else 'None'}")
+
+if SESSION_STRING:
+    print("DEBUG: Using StringSession from Env Var.")
+    # Use StringSession for GitHub Actions (Non-interactive)
+    client = TelegramClient(StringSession(SESSION_STRING), API_ID, API_HASH)
+else:
+    if os.getenv('GITHUB_ACTIONS') == 'true':
+        raise ValueError("CRITICAL ERROR: SESSION_STRING is missing or empty in GitHub Actions! Please check your Secrets.")
+    
+    print("DEBUG: Using File Session (Local).")
+    # Use File Session for Local Run (Interactive first time)
+    client = TelegramClient('meme_scraper_session', API_ID, API_HASH)
 
 def extract_ca(text):
     matches = re.findall(CA_PATTERN, text)
@@ -78,7 +95,9 @@ async def main():
         for channel in CHANNELS:
             try:
                 print(f"Checking {channel}...")
-                async for message in client.iter_messages(channel, limit=50):
+                # Get entity first to ensure we can access it
+                entity = await client.get_entity(channel)
+                async for message in client.iter_messages(entity, limit=50):
                     if message.message:
                         ca = extract_ca(message.message)
                         if ca:
