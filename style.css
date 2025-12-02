@@ -117,21 +117,36 @@ h1 {
     /* Distribute content */
 }
 
-/* Expanded State (Click) - Scale 3x */
+/* Expanded State (Click) - Fixed Modal Style */
 .token-card.expanded {
-    transform: scale(3);
-    z-index: 1000;
-    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 10px 10px -5px rgba(0, 0, 0, 0.4);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 320px;
+    /* Fixed width for readability */
+    height: auto;
+    min-height: 200px;
+    z-index: 9999;
+    box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.8), 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+    /* Backdrop + Shadow */
     background: #1e293b;
-    /* Solid background when zoomed to prevent transparency issues */
     border-color: var(--accent-color);
+    cursor: default;
+    /* Don't show pointer in expanded mode */
 }
 
 /* Ensure content scales appropriately or stays readable */
-.token-card:hover .card-content {
-    /* Optional: Adjust font sizes if needed when scaled,
-       but scale(3) zooms everything.
-       We might want to keep it simple first. */
+.token-card.expanded .card-content-wrapper {
+    gap: 12px;
+}
+
+.token-card.expanded .token-name {
+    font-size: 1.5rem;
+}
+
+.token-card.expanded .token-price {
+    font-size: 1.5rem;
 }
 
 /* Chart Container - Background */

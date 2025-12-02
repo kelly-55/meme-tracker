@@ -211,7 +211,9 @@ function renderGrid() {
                 </div>
                 <div class="community-stats">
                     <span>📢 ${token.channel}</span>
-                    <span>👥 ${token.mentions} mentions</span>
+                    <span>👥 Mentions: ${token.mentions || 1}</span>
+                    ${token.mcap ? `<span>💰 MCap: ${token.mcap}</span>` : ''}
+                    ${token.time_since_open ? `<span>⏱️ Open: ${token.time_since_open}</span>` : ''}
                 </div>
                 <div class="token-metrics">
                     <div class="token-price">$${parseFloat(token.price).toFixed(8)}</div>
@@ -220,11 +222,17 @@ function renderGrid() {
             </div>
         `;
 
-        card.addEventListener('click', () => {
-            document.querySelectorAll('.token-card.expanded').forEach(c => {
-                if (c !== card) c.classList.remove('expanded');
-            });
-            card.classList.toggle('expanded');
+        // Improved Click Handler
+        card.addEventListener('click', (e) => {
+            // If already expanded, clicking again should close it
+            if (card.classList.contains('expanded')) {
+                card.classList.remove('expanded');
+            } else {
+                // Close others
+                document.querySelectorAll('.token-card.expanded').forEach(c => c.classList.remove('expanded'));
+                // Expand this one
+                card.classList.add('expanded');
+            }
         });
 
         gridContainer.appendChild(card);
