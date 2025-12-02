@@ -1,0 +1,41 @@
+name: Update Meme Data
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # Run every 10 minutes
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install telethon
+        
+    - name: Run Scraper
+      env:
+        API_ID: ${{ secrets.API_ID }}
+        API_HASH: ${{ secrets.API_HASH }}
+        SESSION_STRING: ${{ secrets.SESSION_STRING }}
+      run: |
+        # Note: You need to modify scraper_template.py to run once and exit, 
+        # instead of client.run_until_disconnected() for this to work in an Action.
+        python scraper_template.py
+        
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add meme_data.json
+        git commit -m "Update meme data" || exit 0
+        git push
