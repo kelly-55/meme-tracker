@@ -18,10 +18,20 @@ OUTPUT_FILE = 'meme_data.json'
 CA_PATTERN = r'\b[a-zA-Z0-9]{32,44}\b' 
 
 # Initialize Client
+print(f"DEBUG: Running in GitHub Actions? {os.getenv('GITHUB_ACTIONS')}")
+print(f"DEBUG: API_ID present? {bool(API_ID)}")
+print(f"DEBUG: API_HASH present? {bool(API_HASH)}")
+print(f"DEBUG: SESSION_STRING length: {len(SESSION_STRING) if SESSION_STRING else 'None'}")
+
 if SESSION_STRING:
+    print("DEBUG: Using StringSession from Env Var.")
     # Use StringSession for GitHub Actions (Non-interactive)
     client = TelegramClient(StringSession(SESSION_STRING), API_ID, API_HASH)
 else:
+    if os.getenv('GITHUB_ACTIONS') == 'true':
+        raise ValueError("CRITICAL ERROR: SESSION_STRING is missing or empty in GitHub Actions! Please check your Secrets.")
+    
+    print("DEBUG: Using File Session (Local).")
     # Use File Session for Local Run (Interactive first time)
     client = TelegramClient('meme_scraper_session', API_ID, API_HASH)
 
