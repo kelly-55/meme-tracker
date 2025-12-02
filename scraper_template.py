@@ -86,6 +86,12 @@ async def handler(event):
 
 async def main():
     print("Starting Scraper...")
+    
+    # Ensure output file exists (to prevent git add errors if no data found)
+    if not os.path.exists(OUTPUT_FILE):
+        with open(OUTPUT_FILE, 'w') as f:
+            json.dump([], f)
+            
     await client.start()
     
     # Check if running in GitHub Actions (CI environment)
