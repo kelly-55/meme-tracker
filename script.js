@@ -318,7 +318,8 @@ let useRealData = false; // Will automatically switch to true if JSON is found
  */
 async function fetchBackendData() {
     try {
-        const response = await fetch(DATA_SOURCE_URL, { cache: "no-store" });
+        // Add timestamp to prevent caching
+        const response = await fetch(`${DATA_SOURCE_URL}?t=${Date.now()}`, { cache: "no-store" });
         if (!response.ok) throw new Error('No backend data found');
         const data = await response.json();
 

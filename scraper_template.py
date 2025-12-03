@@ -156,6 +156,10 @@ async def main():
                         break
                         
                     if message.message:
+                        # Debug: Print first 50 chars of message to see what's being checked
+                        preview = message.message.replace('\n', ' ')[:50]
+                        print(f"Checking msg {message.id}: {preview}...")
+                        
                         extracted = extract_data(message.message)
                         if extracted:
                             new_token = {
@@ -169,6 +173,8 @@ async def main():
                                 "time_since_open": extracted['time_since_open']
                             }
                             await update_json(new_token)
+                        else:
+                            print(f"  -> No data extracted. (CA found? {bool(re.search(CA_PATTERN, message.message))})")
             except Exception as e:
                 print(f"Error scraping {channel}: {e}")
         print("Batch scrape complete.")
