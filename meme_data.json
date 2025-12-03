@@ -1,5 +1,35 @@
 [
   {
+    "id": "796187",
+    "name": "ebonoah",
+    "ca": "5orvuvbky2qYvjANGnbphcoqjGyyjn8ZA6vC9vmNpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764763127.0,
+    "mcap": "40.78K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "796188",
+    "name": "BRAIN",
+    "ca": "eRNuAeA8HuefquzD1vepXEVJ42zvKniyawonpQhpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764763128.0,
+    "mcap": "199.27K",
+    "mentions": "1",
+    "time_since_open": "2\u52065\u79d2"
+  },
+  {
+    "id": "796189",
+    "name": "zkFART",
+    "ca": "AvWwoBC24tzqxQHRyGs3esukAhuAQgK35iqSVSBnpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764763128.0,
+    "mcap": "16.48K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "796175",
     "name": "Sollar",
     "ca": "E376BGTFTLYgAcUuVPGMHpiaQH3mGbteQQfRLDzWpump",
@@ -968,35 +998,5 @@
     "mcap": "47.28K",
     "mentions": "8",
     "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "796087",
-    "name": "Franklin",
-    "ca": "CSrwNk6B1DwWCHRMsaoDVUfD5bBMQCJPY72ZG3Nnpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764753712.0,
-    "mcap": "1.33M",
-    "mentions": "20",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "796088",
-    "name": "TANGTHAI",
-    "ca": "7nxrT67yE5ovv81JPPAX46sjPc4TqKukT3NYnXKSpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764753712.0,
-    "mcap": "27.10K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "796046",
-    "name": "BAMBI",
-    "ca": "4kAFtWjyzrpx6E7TFVhcVKKDEsxc8H3uYtg7dTnXpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764750998.0,
-    "mcap": "40.30K",
-    "mentions": "1",
-    "time_since_open": "4\u79d2"
   }
 ]
