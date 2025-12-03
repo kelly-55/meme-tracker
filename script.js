@@ -263,10 +263,27 @@ function renderGrid() {
             card.addEventListener('click', (e) => {
                 // Toggle expanded state
                 if (card.classList.contains('expanded')) {
+                    // Closing: Disable transition to prevent "flying" effect
+                    card.style.transition = 'none';
                     card.classList.remove('expanded');
+                    // Restore transition after a frame
+                    requestAnimationFrame(() => {
+                        setTimeout(() => {
+                            card.style.transition = '';
+                        }, 50);
+                    });
                 } else {
                     // Close others
-                    document.querySelectorAll('.token-card.expanded').forEach(c => c.classList.remove('expanded'));
+                    document.querySelectorAll('.token-card.expanded').forEach(c => {
+                        c.style.transition = 'none';
+                        c.classList.remove('expanded');
+                        requestAnimationFrame(() => {
+                            setTimeout(() => {
+                                c.style.transition = '';
+                            }, 50);
+                        });
+                    });
+                    // Expand this one (allow transition)
                     card.classList.add('expanded');
                 }
             });
