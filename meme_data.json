@@ -1,5 +1,25 @@
 [
   {
+    "id": "797074",
+    "name": "DIH",
+    "ca": "E5v2cxhQ8qFeNptyYk1youKWZeBAapuM9CXUF9DYpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764806117.0,
+    "mcap": "37.76K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "797075",
+    "name": "DIH",
+    "ca": "E5v2cxhQ8qFeNptyYk1youKWZeBAapuM9CXUF9DYpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764806117.0,
+    "mcap": "37.76K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "797061",
     "name": "DGENZ",
     "ca": "FmW1rrUdC3L4aN6usotGvs1bRndveVpHeckQZ5Vjpump",
@@ -978,25 +998,5 @@
     "mcap": "68.05K",
     "mentions": "14",
     "time_since_open": "10\u79d2"
-  },
-  {
-    "id": "796945",
-    "name": "CHAD",
-    "ca": "JBAqVQHRmZtrcSdZXtBodmUrmKwDhn4eZusbLyD6bonk",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764798411.0,
-    "mcap": "N/A",
-    "mentions": "4",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "796946",
-    "name": "CHAD",
-    "ca": "JBAqVQHRmZtrcSdZXtBodmUrmKwDhn4eZusbLyD6bonk",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764798411.0,
-    "mcap": "N/A",
-    "mentions": "5",
-    "time_since_open": "\u6682\u65e0"
   }
 ]
