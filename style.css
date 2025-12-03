@@ -221,20 +221,34 @@ canvas {
     font-size: 0.75rem;
     color: #cbd5e1;
     font-family: monospace;
-    background: rgba(0, 0, 0, 0.4);
-    padding: 4px 6px;
-    border-radius: 4px;
+    background: rgba(0, 0, 0, 0.6);
+    /* Darker background for contrast */
+    padding: 6px 8px;
+    border-radius: 6px;
     cursor: copy;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     border: 1px solid rgba(255, 255, 255, 0.1);
     transition: background 0.2s;
-    margin: 4px 0;
+    margin: 8px 0;
+    width: 100%;
+    /* Ensure it takes full width */
+    box-sizing: border-box;
+}
+
+.token-card.expanded .token-ca {
+    white-space: normal;
+    /* Allow wrap in expanded mode if needed, or keep ellipsis but ensure width */
+    word-break: break-all;
+    /* Break long CA if needed */
+    font-size: 0.9rem;
+    /* Larger in expanded */
+    overflow: visible;
 }
 
 .token-ca:hover {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.2);
     border-color: var(--accent-color);
     color: #fff;
 }

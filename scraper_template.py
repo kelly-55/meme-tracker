@@ -34,34 +34,54 @@ else:
         raise ValueError("CRITICAL ERROR: SESSION_STRING is missing or empty in GitHub Actions! Please check your Secrets.")
     
     print("DEBUG: Using File Session (Local).")
-    # Use File Session for Local Run (Interactive first time)
-    client = TelegramClient('meme_scraper_session', API_ID, API_HASH)
+    # --- Regex Patterns ---
+# Name: Match $TokenName or just TokenName at start, or specific format 💊 $NAME
+NAME_PATTERN = r'\$([a-zA-Z0-9\._-]+)' 
+# CA: Standard Solana/EVM address
+CA_PATTERN = r'\b[a-zA-Z0-9]{32,44}\b'
+# Market Cap: Matches "市值：$46.74K"
+MCAP_PATTERN = r'市值[：:]\s*\$([0-9.]+[KMB]?)'
+# Community: Matches "已在4个社区推广"
+COMMUNITY_PATTERN = r'已在\s*(\d+)\s*个社区'
+# First Promo Time: Matches "开盘后4秒在第一个社区推广"
+FIRST_PROMO_PATTERN = r'开盘后\s*(.*?)\s*在第一个社区'
 
 def extract_data(text):
     data = {}
     
-    # Extract CA
+    # 1. Extract CA (Mandatory)
     ca_match = re.search(CA_PATTERN, text)
     if ca_match:
         data['ca'] = ca_match.group(0)
     else:
-        return None # CA is mandatory
+        return None 
         
-    # Extract Name (Try $Name first, else default)
+    # 2. Extract Name
+    # Try to find $Name first
     name_match = re.search(NAME_PATTERN, text)
-    data['name'] = name_match.group(1) if name_match else "Unknown"
+    if name_match:
+        data['name'] = name_match.group(1)
+    else:
+        # Fallback: Take the first line if it looks like a header
+        lines = text.strip().split('\n')
+        if lines:
+            # Clean up emojis and common prefixes
+            clean_name = re.sub(r'[💊🟢💰]', '', lines[0]).strip()
+            data['name'] = clean_name[:15] # Limit length
+        else:
+            data['name'] = "Unknown"
     
-    # Extract Market Cap
+    # 3. Extract Market Cap
     mcap_match = re.search(MCAP_PATTERN, text)
     data['mcap'] = mcap_match.group(1) if mcap_match else "N/A"
     
-    # Extract Community Count
+    # 4. Extract Community Count
     comm_match = re.search(COMMUNITY_PATTERN, text)
     data['mentions'] = comm_match.group(1) if comm_match else "1"
     
-    # Extract Time
-    time_match = re.search(TIME_PATTERN, text)
-    data['time_since_open'] = time_match.group(1) if time_match else ""
+    # 5. Extract First Promo Time
+    time_match = re.search(FIRST_PROMO_PATTERN, text)
+    data['time_since_open'] = time_match.group(1) if time_match else "暂无"
     
     return data
 
@@ -117,11 +137,24 @@ async def main():
     # Check if running in GitHub Actions (CI environment)
     if os.getenv('GITHUB_ACTIONS') == 'true':
         print("Running in Batch Mode (GitHub Actions)...")
+        
+        # Only fetch messages from the last 30 minutes to avoid fetching old history
+        # Since the Action runs every 10 minutes, 30 mins provides a safe overlap.
+        from datetime import datetime, timedelta, timezone
+        cutoff_time = datetime.now(timezone.utc) - timedelta(minutes=30)
+        print(f"Fetching messages since: {cutoff_time}")
+
         for channel in CHANNELS:
             try:
                 print(f"Checking {channel}...")
                 entity = await client.get_entity(channel)
+                
+                # Iterate messages (newest first)
                 async for message in client.iter_messages(entity, limit=50):
+                    # Stop if message is older than cutoff
+                    if message.date < cutoff_time:
+                        break
+                        
                     if message.message:
                         extracted = extract_data(message.message)
                         if extracted:

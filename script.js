@@ -184,61 +184,128 @@ function renderChart(canvasId, data, isPositive) {
 /**
  * Renders the grid
  */
+/**
+ * Renders the grid (Optimized for performance)
+ */
 function renderGrid() {
     tokenCountSpan.textContent = `Tokens: ${tokens.length}/${MAX_TOKENS}`;
-    gridContainer.innerHTML = '';
 
-    tokens.forEach(token => {
-        const card = document.createElement('div');
-        card.className = 'token-card';
+    // 1. Remove tokens that are no longer in the list
+    const currentIds = new Set(tokens.map(t => t.id));
+    const existingCards = document.querySelectorAll('.token-card');
+    existingCards.forEach(card => {
+        if (!currentIds.has(card.dataset.id)) {
+            card.remove();
+        }
+    });
 
+    // 2. Add or Update tokens
+    tokens.forEach((token, index) => {
+        let card = document.querySelector(`.token-card[data-id="${token.id}"]`);
         const isPositive = parseFloat(token.change24h) >= 0;
         const changeClass = isPositive ? 'change-up' : 'change-down';
         const changeSign = isPositive ? '+' : '';
-        const canvasId = `chart-${token.id}`;
 
-        card.innerHTML = `
-            <div class="chart-container">
-                <canvas id="${canvasId}"></canvas>
-            </div>
-            <div class="card-content-wrapper">
-                <div class="card-header">
-                    <div class="token-name" title="${token.name}">${token.name}</div>
-                    <button class="delete-btn" onclick="event.stopPropagation(); deleteToken('${token.id}')" title="Remove">×</button>
-                </div>
-                <div class="token-ca" title="Click to copy: ${token.ca}" onclick="event.stopPropagation(); navigator.clipboard.writeText('${token.ca}')">
-                    ${token.ca.substring(0, 6)}...${token.ca.substring(38)}
-                </div>
-                <div class="community-stats">
-                    <span>📢 ${token.channel}</span>
-                    <span>👥 Mentions: ${token.mentions || 1}</span>
-                    ${token.mcap ? `<span>💰 MCap: ${token.mcap}</span>` : ''}
-                    ${token.time_since_open ? `<span>⏱️ Open: ${token.time_since_open}</span>` : ''}
-                </div>
-                <div class="token-metrics">
-                    <div class="token-price">$${parseFloat(token.price).toFixed(8)}</div>
-                    <div class="token-change ${changeClass}">${changeSign}${token.change24h}%</div>
-                </div>
-            </div>
-        `;
+        // Create new card if it doesn't exist
+        if (!card) {
+            card = document.createElement('div');
+            card.className = 'token-card';
+            card.dataset.id = token.id;
 
-        // Improved Click Handler
-        card.addEventListener('click', (e) => {
-            // If already expanded, clicking again should close it
-            if (card.classList.contains('expanded')) {
-                card.classList.remove('expanded');
+            // Initial HTML structure
+            card.innerHTML = `
+                <div class="chart-container">
+                    <canvas id="chart-${token.id}"></canvas>
+                </div>
+                <div class="card-content-wrapper">
+                    <div class="card-header">
+                        <div class="token-name" title="${token.name}">${token.name}</div>
+                        <button class="delete-btn" title="Remove">×</button>
+                    </div>
+                    
+                    <div class="community-stats">
+                        <span class="stat-mentions">🔥 社区推广: ${token.mentions || 1}</span>
+                        ${token.mcap ? `<span class="stat-mcap">💰 市值: ${token.mcap}</span>` : ''}
+                        <span class="stat-time">⏱️ 首次推广: ${token.time_since_open || '暂无'}</span>
+                    </div>
+
+                    <div class="token-ca" title="Click to copy: ${token.ca}">
+                        ${token.ca}
+                    </div>
+                    
+                    <div class="token-metrics">
+                        <div class="token-price">$${parseFloat(token.price).toFixed(8)}</div>
+                        <div class="token-change ${changeClass}">${changeSign}${token.change24h}%</div>
+                    </div>
+                </div>
+            `;
+
+            // Event Listeners (Attached only once)
+
+            // Delete Button
+            card.querySelector('.delete-btn').addEventListener('click', (e) => {
+                e.stopPropagation();
+                deleteToken(token.id);
+            });
+
+            // Copy CA
+            card.querySelector('.token-ca').addEventListener('click', (e) => {
+                e.stopPropagation();
+                navigator.clipboard.writeText(token.ca);
+                // Optional: Show feedback
+                const el = e.currentTarget;
+                const originalBg = el.style.background;
+                el.style.background = '#4ade80'; // Green flash
+                setTimeout(() => el.style.background = originalBg, 200);
+            });
+
+            // Expand/Collapse Logic
+            card.addEventListener('click', (e) => {
+                // Toggle expanded state
+                if (card.classList.contains('expanded')) {
+                    card.classList.remove('expanded');
+                } else {
+                    // Close others
+                    document.querySelectorAll('.token-card.expanded').forEach(c => c.classList.remove('expanded'));
+                    card.classList.add('expanded');
+                }
+            });
+
+            // Insert at correct position (handling sort order if needed, but append/prepend logic in fetchLoop handles order)
+            // Since we unshift to tokens array, new ones are at index 0.
+            // But DOM order might be different if we just append.
+            // Simplest: Prepend if new.
+            if (gridContainer.firstChild) {
+                gridContainer.insertBefore(card, gridContainer.firstChild);
             } else {
-                // Close others
-                document.querySelectorAll('.token-card.expanded').forEach(c => c.classList.remove('expanded'));
-                // Expand this one
-                card.classList.add('expanded');
+                gridContainer.appendChild(card);
             }
-        });
 
-        gridContainer.appendChild(card);
+            // Render Chart once
+            renderChart(`chart-${token.id}`, token.history, isPositive);
 
-        // Render chart after element is in DOM
-        renderChart(canvasId, token.history, isPositive);
+        } else {
+            // Update existing card content (efficiently)
+            card.querySelector('.token-name').textContent = token.name;
+            card.querySelector('.token-name').title = token.name;
+
+            card.querySelector('.token-price').textContent = `$${parseFloat(token.price).toFixed(8)}`;
+
+            const changeEl = card.querySelector('.token-change');
+            changeEl.className = `token-change ${changeClass}`;
+            changeEl.textContent = `${changeSign}${token.change24h}%`;
+
+            // Update stats if they change
+            card.querySelector('.stat-mentions').textContent = `🔥 社区推广: ${token.mentions || 1}`;
+            if (token.mcap) {
+                const mcapEl = card.querySelector('.stat-mcap');
+                if (mcapEl) mcapEl.textContent = `💰 市值: ${token.mcap}`;
+            }
+
+            // Note: We don't re-render the chart on every update to save performance, 
+            // unless history actually changed significantly. 
+            // For now, static chart is fine or we can update it if needed.
+        }
     });
 }
 
