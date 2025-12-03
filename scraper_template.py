@@ -9,7 +9,7 @@ from telethon.sessions import StringSession
 API_ID = os.getenv('API_ID') or 'YOUR_API_ID'
 API_HASH = os.getenv('API_HASH') or 'YOUR_API_HASH'
 SESSION_STRING = os.getenv('SESSION_STRING') # Secret for CI/CD login
-CHANNELS = ['MomentumTrackerCN2'] # Channels to monitor
+CHANNELS = ['MomentumTrackerCN2','ceshi00008866'] # Channels to monitor
 OUTPUT_FILE = 'meme_data.json'
 
 # --- Regex Patterns ---
