@@ -1,5 +1,15 @@
 [
   {
+    "id": "797795",
+    "name": "ENOCHBURKE",
+    "ca": "GidwWCMcdm8xwnQF26oZhXsLUNwwPT7TAjvvNiRRpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764848392.0,
+    "mcap": "48.72K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "797758",
     "name": "ENOCHBURKE",
     "ca": "GidwWCMcdm8xwnQF26oZhXsLUNwwPT7TAjvvNiRRpump",
@@ -987,16 +997,6 @@
     "timestamp": 1764840987.0,
     "mcap": "51.51K",
     "mentions": "4",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "797668",
-    "name": "ROCKY",
-    "ca": "D8ezSnpTQDH3dMnkr4ZNK59uoYmXFU3G7fQrQkGXpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764840987.0,
-    "mcap": "50.94K",
-    "mentions": "5",
     "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
   }
 ]
