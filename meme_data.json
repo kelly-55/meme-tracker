@@ -1,5 +1,25 @@
 [
   {
+    "id": "799417",
+    "name": "GUNBEAR",
+    "ca": "ABBQi3WfwgEgTvgM5Lrr245nwiKsKKuSm84jgZ8tpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764920251.0,
+    "mcap": "24.06K",
+    "mentions": "3",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "799418",
+    "name": "DERP",
+    "ca": "HjAJWMqSbbAT9gdDLsjjCQJF1meK8SX8ZB7HLL3Xpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764920251.0,
+    "mcap": "9.92K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "799402",
     "name": "CRACKY",
     "ca": "7u2U7XL8kXWiEQDrnb3b99d51P4ndXoR66g2B6hTpump",
@@ -978,25 +998,5 @@
     "mcap": "40.79K",
     "mentions": "7",
     "time_since_open": "12\u79d2"
-  },
-  {
-    "id": "799279",
-    "name": "MEGADOG",
-    "ca": "9J8RFpuBCrpFrJ7Fiks4tpmAk9sdGkMmjHck7f5Epump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764913330.0,
-    "mcap": "29.55K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "799280",
-    "name": "MEGADOG",
-    "ca": "9J8RFpuBCrpFrJ7Fiks4tpmAk9sdGkMmjHck7f5Epump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764913331.0,
-    "mcap": "29.55K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
   }
 ]
