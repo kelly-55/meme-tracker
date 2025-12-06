@@ -1,5 +1,45 @@
 [
   {
+    "id": "800759",
+    "name": "UEM",
+    "ca": "34imeApD72cXz8FtWdTgWR7dBxd9soyVadEwJ7jjpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765028465.0,
+    "mcap": "38.59K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800760",
+    "name": "Frankeu",
+    "ca": "9c1Nb1GSZLkMfbZv4CTNnDGqdxRfxXN6mG6mf5uCpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765028465.0,
+    "mcap": "3.75K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800761",
+    "name": "NETFLIX",
+    "ca": "tUfD8VSVjpJGfmfPh77c3mbqhpGWBE4BR5qo9EZpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765028466.0,
+    "mcap": "256.02K",
+    "mentions": "1",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "800762",
+    "name": "NETFLIX",
+    "ca": "tUfD8VSVjpJGfmfPh77c3mbqhpGWBE4BR5qo9EZpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765028466.0,
+    "mcap": "256.02K",
+    "mentions": "2",
+    "time_since_open": "8\u79d2"
+  },
+  {
     "id": "800741",
     "name": "EUPUMP",
     "ca": "ESiDoTshdmewdgPbBgxuEk5PdGTmGcEUw3gi5iChpump",
@@ -956,46 +996,6 @@
     "channel": "MomentumTrackerCN",
     "timestamp": 1765016770.0,
     "mcap": "3.94K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800637",
-    "name": "Mini-Yohei",
-    "ca": "72hoCJsuYXokqnb5LMhEE9TTm8fumWi1E4BzNQeApump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765016770.0,
-    "mcap": "8.05K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800638",
-    "name": "euwope",
-    "ca": "5RwXmBoQoTefGSeZRv3WJNbuxucwQvRPZq5Xe3uXpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765016770.0,
-    "mcap": "17.89K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800639",
-    "name": "DINO",
-    "ca": "6wCYEZEBFQC7CHndo7p7KejyM4oGgi5E1Ya1e9eQpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765016770.0,
-    "mcap": "242.12K",
-    "mentions": "17",
-    "time_since_open": "9\u79d2"
-  },
-  {
-    "id": "800616",
-    "name": "ACTEU",
-    "ca": "8M97PAJqxnFmuxfvMw6a7Zv86ExjoP48FmH3Pg1Tpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765014963.0,
-    "mcap": "10.64K",
     "mentions": "1",
     "time_since_open": "\u6682\u65e0"
   }
