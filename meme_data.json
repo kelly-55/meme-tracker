@@ -1,5 +1,15 @@
 [
   {
+    "id": "800426",
+    "name": "Dogcoin",
+    "ca": "Bm75utdgjbbqJ7e3iXywrCVP1pchHhAqVa2x7U68pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764999694.0,
+    "mcap": "44.31K",
+    "mentions": "3",
+    "time_since_open": "5\u79d2"
+  },
+  {
     "id": "800393",
     "name": "cummies",
     "ca": "EsHi7xpwAedPz8vw4WU1mteTzHgbZF7Anrb5o8xCpump",
@@ -988,15 +998,5 @@
     "mcap": "59.25K",
     "mentions": "12",
     "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "800296",
-    "name": "100",
-    "ca": "8x5JpC1J9r3LQskfrWibMGDRBTht4P9Wgd7KHvFBpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764992460.0,
-    "mcap": "6.17K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
   }
 ]
