@@ -1,5 +1,35 @@
 [
   {
+    "id": "800612",
+    "name": "Piptron",
+    "ca": "3XpQMtorHucRRXPL9WLCAY2fsAefpq8CrsRTxN4Upump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765014063.0,
+    "mcap": "27.82K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800613",
+    "name": "Piptron",
+    "ca": "3XpQMtorHucRRXPL9WLCAY2fsAefpq8CrsRTxN4Upump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765014063.0,
+    "mcap": "27.82K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800614",
+    "name": "Piptron",
+    "ca": "3XpQMtorHucRRXPL9WLCAY2fsAefpq8CrsRTxN4Upump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765014063.0,
+    "mcap": "27.82K",
+    "mentions": "3",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "800605",
     "name": "ZOOM",
     "ca": "AFHhdCugQ5voFVXneT41FmXE3C5q1VCDdfp4X3fQpump",
@@ -968,35 +998,5 @@
     "mcap": "178.87K",
     "mentions": "9",
     "time_since_open": "30\u79d2"
-  },
-  {
-    "id": "800467",
-    "name": "SAMOYED",
-    "ca": "Cb8K76juerFRDyNdS7AbGnEqNT7mNEiH6JFJX15qpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765002362.0,
-    "mcap": "8.89K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800468",
-    "name": "CC",
-    "ca": "HGs1YAW9byXGZXwA33juHKfkJPKamy4K9sxvjAqmpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765002363.0,
-    "mcap": "47.41K",
-    "mentions": "2",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "800469",
-    "name": "JOKECOIN",
-    "ca": "7XBpWH1xZY1FQiY3pLwkBjNLJAbX9k2m8QHNn4Dcpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765002366.0,
-    "mcap": "19.51K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
   }
 ]
