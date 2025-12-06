@@ -1,5 +1,45 @@
 [
   {
+    "id": "800666",
+    "name": "W",
+    "ca": "yrjV15ZMGLk7qqEuBpGSvBcZJKwDmWJXbopyKh5pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765021265.0,
+    "mcap": "222.87K",
+    "mentions": "1",
+    "time_since_open": "4\u52067\u79d2"
+  },
+  {
+    "id": "800667",
+    "name": "W",
+    "ca": "yrjV15ZMGLk7qqEuBpGSvBcZJKwDmWJXbopyKh5pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765021265.0,
+    "mcap": "222.87K",
+    "mentions": "2",
+    "time_since_open": "4\u52067\u79d2"
+  },
+  {
+    "id": "800668",
+    "name": "W",
+    "ca": "yrjV15ZMGLk7qqEuBpGSvBcZJKwDmWJXbopyKh5pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765021265.0,
+    "mcap": "223.09K",
+    "mentions": "3",
+    "time_since_open": "4\u52067\u79d2"
+  },
+  {
+    "id": "800669",
+    "name": "SaveEU",
+    "ca": "Am97nMawq9e5UFeqQy5HHAFZHoJjYKMZCwP7BnMpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765021265.0,
+    "mcap": "17.67K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "800656",
     "name": "Santa",
     "ca": "EXZVKFfJsc1MHqYwo4XESRFenwmDZ35HmsYJ6d8pump",
@@ -958,45 +998,5 @@
     "mcap": "31.23K",
     "mentions": "1",
     "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800551",
-    "name": "Solana",
-    "ca": "4MPZt6FCvhWYvLmNcCanXGWNrEkuNUQBssk62yc8pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765008664.0,
-    "mcap": "31.35K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800552",
-    "name": "$\u65e0\u7528 (\u65e0\u7528)",
-    "ca": "51xLkXsZp7zQdEdnx6shohfvJvtXzukWzCPeribM7G8Q",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765008664.0,
-    "mcap": "N/A",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800553",
-    "name": "$\u65e0\u7528 (\u65e0\u7528)",
-    "ca": "51xLkXsZp7zQdEdnx6shohfvJvtXzukWzCPeribM7G8Q",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765008670.0,
-    "mcap": "N/A",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800554",
-    "name": "CENJAK",
-    "ca": "p2dmJJa1uFPV5MdArsCi9mroBWUMTFau9ooBrfspump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765008670.0,
-    "mcap": "156.89K",
-    "mentions": "1",
-    "time_since_open": "3\u79d2"
   }
 ]
