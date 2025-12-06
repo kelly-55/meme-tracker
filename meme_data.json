@@ -1,5 +1,55 @@
 [
   {
+    "id": "800854",
+    "name": "Beast",
+    "ca": "AwpSfWy313abnhyEV28M7s7yp73TNH9iFheDejVNpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765037466.0,
+    "mcap": "3.74K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800855",
+    "name": "WONDER",
+    "ca": "ruPNSNW6LEeJzSvVwjVTEzFFiD9B8unZKcSJBpjpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765037466.0,
+    "mcap": "15.57K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800856",
+    "name": "COCO",
+    "ca": "9NjNEwDKAUUvCih7HwaeXtEBpEuo5Zwne1ZdsUfBpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765037467.0,
+    "mcap": "8.52K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800857",
+    "name": "GazaCoin",
+    "ca": "G6wD7fHzSTUvMsDN1NjzqipoiXmXAdnupCr9XD1Epump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765037467.0,
+    "mcap": "19.29K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800858",
+    "name": "bitcoinini",
+    "ca": "GsqRj6zRMeeHqoQ5wEMcB9hxpDACaLPfy2RMNHkjpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765037467.0,
+    "mcap": "36.28K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "800843",
     "name": "BEAR",
     "ca": "tx71fvqo2Mk71JeVDnhBT1tmqccNLNGMeKPNqe7pump",
@@ -948,55 +998,5 @@
     "mcap": "416.59K",
     "mentions": "16",
     "time_since_open": "30\u79d2"
-  },
-  {
-    "id": "800730",
-    "name": "ATEU",
-    "ca": "69sUgofmNuzxLF5CpTTrHxtKwPGcnsiPbsjp9crEQqtV",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765025772.0,
-    "mcap": "40.15K",
-    "mentions": "10",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800731",
-    "name": "FireHorse",
-    "ca": "9NyeEdqoQbvZXdyam2eTwXGNB3JgkcUtTexSW5yJpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765025772.0,
-    "mcap": "172.79K",
-    "mentions": "9",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "800732",
-    "name": "AURA",
-    "ca": "G4S2vXcFGgWAV2TgAQPACCMJRJjMASx63aTJHd68pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765025772.0,
-    "mcap": "61.95K",
-    "mentions": "1",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "800733",
-    "name": "GAYROPE",
-    "ca": "5ARz2yGT8Et2bSu6cYUAF4CNxB4NT5NvGgysNd7Epump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765025772.0,
-    "mcap": "85.83K",
-    "mentions": "3",
-    "time_since_open": "3\u79d2"
-  },
-  {
-    "id": "800734",
-    "name": "EU",
-    "ca": "DRKKHP8NaxXxTz34Td3ms7JsHvXA21FYQ5uHcfrYpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765025773.0,
-    "mcap": "15.73K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
   }
 ]
