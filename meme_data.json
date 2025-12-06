@@ -1,5 +1,225 @@
 [
   {
+    "id": "800325",
+    "name": "Peepee",
+    "ca": "fsK5ETgU1WZC3Ga8husnSSaYk9rvsS7BT9oJH46pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764994260.0,
+    "mcap": "88.56K",
+    "mentions": "4",
+    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
+  },
+  {
+    "id": "800326",
+    "name": "Peepee",
+    "ca": "fsK5ETgU1WZC3Ga8husnSSaYk9rvsS7BT9oJH46pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764994260.0,
+    "mcap": "89.36K",
+    "mentions": "5",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "800327",
+    "name": "Peepee",
+    "ca": "fsK5ETgU1WZC3Ga8husnSSaYk9rvsS7BT9oJH46pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764994260.0,
+    "mcap": "89.36K",
+    "mentions": "6",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "800328",
+    "name": "Peepee",
+    "ca": "fsK5ETgU1WZC3Ga8husnSSaYk9rvsS7BT9oJH46pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764994261.0,
+    "mcap": "89.36K",
+    "mentions": "7",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "800329",
+    "name": "Franklin",
+    "ca": "CSrwNk6B1DwWCHRMsaoDVUfD5bBMQCJPY72ZG3Nnpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764994261.0,
+    "mcap": "6.50M",
+    "mentions": "27",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "800330",
+    "name": "Peepee",
+    "ca": "fsK5ETgU1WZC3Ga8husnSSaYk9rvsS7BT9oJH46pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764994265.0,
+    "mcap": "89.46K",
+    "mentions": "8",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "800331",
+    "name": "Peepee",
+    "ca": "fsK5ETgU1WZC3Ga8husnSSaYk9rvsS7BT9oJH46pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764994266.0,
+    "mcap": "89.46K",
+    "mentions": "9",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "800332",
+    "name": "Peepee",
+    "ca": "fsK5ETgU1WZC3Ga8husnSSaYk9rvsS7BT9oJH46pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764994266.0,
+    "mcap": "89.54K",
+    "mentions": "10",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "800333",
+    "name": "Peepee",
+    "ca": "fsK5ETgU1WZC3Ga8husnSSaYk9rvsS7BT9oJH46pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764994266.0,
+    "mcap": "89.54K",
+    "mentions": "11",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "800334",
+    "name": "Gachapin",
+    "ca": "DH5pmbacaFki7EzLRCMYau7gHMLhS9NMr5P82gb5pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764994266.0,
+    "mcap": "6.17K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800338",
+    "name": "ECN",
+    "ca": "12t2i9xTFCvk4ebu36iDxEBWhXwT5LXfhFA7fbh8pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995161.0,
+    "mcap": "185.54K",
+    "mentions": "2",
+    "time_since_open": "4\u79d2"
+  },
+  {
+    "id": "800339",
+    "name": "DLM",
+    "ca": "2AcoivEF8Afrotgjo46HPFk5B5SbKrLSTH2PEVYWpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995161.0,
+    "mcap": "107.59K",
+    "mentions": "14",
+    "time_since_open": "6\u79d2"
+  },
+  {
+    "id": "800340",
+    "name": "OGGIE",
+    "ca": "EFiGRpeteeKYm6FmFBuHJd8DAgYHvrPgfWvthg8Kpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995161.0,
+    "mcap": "4.92K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800341",
+    "name": "ECN",
+    "ca": "12t2i9xTFCvk4ebu36iDxEBWhXwT5LXfhFA7fbh8pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995161.0,
+    "mcap": "185.54K",
+    "mentions": "3",
+    "time_since_open": "4\u79d2"
+  },
+  {
+    "id": "800342",
+    "name": "RATECOIN",
+    "ca": "HfHNkkAQWXK1wodrUnWy3yqvNBUkbhbj1i2BiedApump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995162.0,
+    "mcap": "39.54K",
+    "mentions": "5",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "800343",
+    "name": "U.S.",
+    "ca": "DSn26xwXURM9ZrbVY9tPm6roUXr47GMbaqfUAK7fpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995166.0,
+    "mcap": "80.40K",
+    "mentions": "1",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "800344",
+    "name": "RATECOIN",
+    "ca": "HfHNkkAQWXK1wodrUnWy3yqvNBUkbhbj1i2BiedApump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995166.0,
+    "mcap": "39.54K",
+    "mentions": "6",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "800345",
+    "name": "RATECOIN",
+    "ca": "HfHNkkAQWXK1wodrUnWy3yqvNBUkbhbj1i2BiedApump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995166.0,
+    "mcap": "39.65K",
+    "mentions": "7",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "800346",
+    "name": "OGGIE",
+    "ca": "EFiGRpeteeKYm6FmFBuHJd8DAgYHvrPgfWvthg8Kpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995166.0,
+    "mcap": "4.84K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800347",
+    "name": "U.S.",
+    "ca": "DSn26xwXURM9ZrbVY9tPm6roUXr47GMbaqfUAK7fpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995166.0,
+    "mcap": "80.01K",
+    "mentions": "2",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "800348",
+    "name": "OGGIE",
+    "ca": "6UnYfeaM7yo5ufe1K2dfidQCPY4KPodMAsU9N7yCpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995171.0,
+    "mcap": "11.04K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800349",
+    "name": "usdt",
+    "ca": "6nisRWrmCT2bKSg39ni1d4Nf4fhaKGqZGoEYAJ62pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1764995171.0,
+    "mcap": "22.68K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "800308",
     "name": "Cabal",
     "ca": "Eo6pDQBdu6urif1wrst6v5bQVMsgjWMJMMsY5ABkpump",
@@ -778,225 +998,5 @@
     "mcap": "21.51K",
     "mentions": "2",
     "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800147",
-    "name": "jonhamm",
-    "ca": "8QfuGiAFZGcjHmGBgaEjT21YXcun1Jz1bnj7VvB5pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978966.0,
-    "mcap": "26.61K",
-    "mentions": "2",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "800148",
-    "name": "jonhamm",
-    "ca": "8QfuGiAFZGcjHmGBgaEjT21YXcun1Jz1bnj7VvB5pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978971.0,
-    "mcap": "26.61K",
-    "mentions": "3",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "800149",
-    "name": "biz",
-    "ca": "sfb6wnZvdKATsHbiPKWe8yfjHrJMU1NkQiAkCvspump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978971.0,
-    "mcap": "66.00K",
-    "mentions": "1",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "800150",
-    "name": "biz",
-    "ca": "sfb6wnZvdKATsHbiPKWe8yfjHrJMU1NkQiAkCvspump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978971.0,
-    "mcap": "66.00K",
-    "mentions": "2",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "800151",
-    "name": "biz",
-    "ca": "sfb6wnZvdKATsHbiPKWe8yfjHrJMU1NkQiAkCvspump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978971.0,
-    "mcap": "67.76K",
-    "mentions": "3",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "800152",
-    "name": "biz",
-    "ca": "sfb6wnZvdKATsHbiPKWe8yfjHrJMU1NkQiAkCvspump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978971.0,
-    "mcap": "67.76K",
-    "mentions": "4",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "800133",
-    "name": "KING",
-    "ca": "FtxSsoBwYst5wU14YVJMmAS1tEEiohuv5RPfsB7tpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978057.0,
-    "mcap": "45.82K",
-    "mentions": "1",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "800134",
-    "name": "WB",
-    "ca": "Ge1irMXKPEHyUUq2szs1vGkgxjYJUNMzkr3RcpnWpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978057.0,
-    "mcap": "11.96M",
-    "mentions": "1",
-    "time_since_open": "1\u5c0f\u65f620\u5206"
-  },
-  {
-    "id": "800135",
-    "name": "Gooey",
-    "ca": "4v8HQy9EtwkFxJdboDh8D8pa1xQLVq676ri5XP7hpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978057.0,
-    "mcap": "4.14K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800136",
-    "name": "WB",
-    "ca": "Ge1irMXKPEHyUUq2szs1vGkgxjYJUNMzkr3RcpnWpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978057.0,
-    "mcap": "11.96M",
-    "mentions": "2",
-    "time_since_open": "1\u5c0f\u65f620\u5206"
-  },
-  {
-    "id": "800137",
-    "name": "WB",
-    "ca": "Ge1irMXKPEHyUUq2szs1vGkgxjYJUNMzkr3RcpnWpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764978057.0,
-    "mcap": "11.96M",
-    "mentions": "3",
-    "time_since_open": "1\u5c0f\u65f620\u5206"
-  },
-  {
-    "id": "800122",
-    "name": "MINT",
-    "ca": "AGYjS9uTRBSG75Qvtx6RpJya1NkHpjJshpv6SzWFpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764976257.0,
-    "mcap": "35.66K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800123",
-    "name": "SAN",
-    "ca": "Gcf7Ai5Pdb2yPXyCH41nrCfei6UXBtqVvGX2sbFHpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764976257.0,
-    "mcap": "58.37K",
-    "mentions": "1",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "800124",
-    "name": "SAN",
-    "ca": "Gcf7Ai5Pdb2yPXyCH41nrCfei6UXBtqVvGX2sbFHpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764976257.0,
-    "mcap": "58.37K",
-    "mentions": "2",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "800125",
-    "name": "Ora402",
-    "ca": "9nftmr8TjeKbhPJeUw1LczNb5FYKubVdRJbtn7Pkpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764976257.0,
-    "mcap": "95.90K",
-    "mentions": "1",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800126",
-    "name": "Ora402",
-    "ca": "9nftmr8TjeKbhPJeUw1LczNb5FYKubVdRJbtn7Pkpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764976258.0,
-    "mcap": "95.90K",
-    "mentions": "2",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800127",
-    "name": "JIGGLYPUFF",
-    "ca": "AoKgjNMumZ2JjHFaGnrcKSnuTTRqrHWdKHhPMhzjpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764976264.0,
-    "mcap": "109.66K",
-    "mentions": "8",
-    "time_since_open": "1\u520647\u79d2"
-  },
-  {
-    "id": "800128",
-    "name": "SAN",
-    "ca": "Gcf7Ai5Pdb2yPXyCH41nrCfei6UXBtqVvGX2sbFHpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764976264.0,
-    "mcap": "58.37K",
-    "mentions": "3",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "800129",
-    "name": "SAN",
-    "ca": "Gcf7Ai5Pdb2yPXyCH41nrCfei6UXBtqVvGX2sbFHpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764976264.0,
-    "mcap": "58.37K",
-    "mentions": "4",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "800130",
-    "name": "DINO",
-    "ca": "6wCYEZEBFQC7CHndo7p7KejyM4oGgi5E1Ya1e9eQpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764976264.0,
-    "mcap": "148.33K",
-    "mentions": "14",
-    "time_since_open": "9\u79d2"
-  },
-  {
-    "id": "800131",
-    "name": "sheepcoin",
-    "ca": "AMxUDbw9or44iBzPaQFHnCofeNf2VDicKGrSwS2cpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764976264.0,
-    "mcap": "35.43K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800114",
-    "name": "RETARD",
-    "ca": "Ahsa7P2ciT3kpgC5LxjQAPZfFwns6vJTQ1r2Ac4Spump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1764975357.0,
-    "mcap": "183.85K",
-    "mentions": "15",
-    "time_since_open": "7\u79d2"
   }
 ]
