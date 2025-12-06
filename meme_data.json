@@ -1,5 +1,45 @@
 [
   {
+    "id": "800652",
+    "name": "BEAR",
+    "ca": "tx71fvqo2Mk71JeVDnhBT1tmqccNLNGMeKPNqe7pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765019465.0,
+    "mcap": "35.77K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800653",
+    "name": "2K25",
+    "ca": "D1V1Hu9gFK63N1xy3RFenBbMwvvTcC6QUGoSvUatpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765019465.0,
+    "mcap": "23.78K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800654",
+    "name": "BEAR",
+    "ca": "tx71fvqo2Mk71JeVDnhBT1tmqccNLNGMeKPNqe7pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765019465.0,
+    "mcap": "35.77K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800655",
+    "name": "2K25",
+    "ca": "D1V1Hu9gFK63N1xy3RFenBbMwvvTcC6QUGoSvUatpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765019466.0,
+    "mcap": "23.84K",
+    "mentions": "3",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "800649",
     "name": "CRCA",
     "ca": "F4FRD3xap9Hra35E7VSY9GTvzy2mRKKqXmX7cU49swrm",
@@ -958,45 +998,5 @@
     "mcap": "17.92K",
     "mentions": "2",
     "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800521",
-    "name": "FOS",
-    "ca": "8WJNTRfNtvVpceDnV9gbtE6DM6RdmF4tgK79zWxjTUZe",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765005964.0,
-    "mcap": "17.79K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800522",
-    "name": "USDEC",
-    "ca": "ANgFz8DMKXUee8KnzuLPAHjhnZ4fomRagmygkWkzpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765005970.0,
-    "mcap": "282.99K",
-    "mentions": "1",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800523",
-    "name": "USDEC",
-    "ca": "ANgFz8DMKXUee8KnzuLPAHjhnZ4fomRagmygkWkzpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765005970.0,
-    "mcap": "282.99K",
-    "mentions": "2",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800524",
-    "name": "LUCARIO",
-    "ca": "JiXe4fpPLGYLum1Z1S3UygtLjoG7neFoqjYbfX9pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765005970.0,
-    "mcap": "190.78K",
-    "mentions": "2",
-    "time_since_open": "5\u79d2"
   }
 ]
