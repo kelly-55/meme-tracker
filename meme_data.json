@@ -1,5 +1,205 @@
 [
   {
+    "id": "800557",
+    "name": "CENJAK",
+    "ca": "p2dmJJa1uFPV5MdArsCi9mroBWUMTFau9ooBrfspump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765009563.0,
+    "mcap": "2.56K",
+    "mentions": "2",
+    "time_since_open": "3\u79d2"
+  },
+  {
+    "id": "800558",
+    "name": "CENJAK",
+    "ca": "p2dmJJa1uFPV5MdArsCi9mroBWUMTFau9ooBrfspump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765009563.0,
+    "mcap": "2.56K",
+    "mentions": "3",
+    "time_since_open": "3\u79d2"
+  },
+  {
+    "id": "800559",
+    "name": "$\u65e0\u7528 (\u65e0\u7528)",
+    "ca": "8MF3nQqcnx93SSfZhTX6EZNEN8WC6D4naiNU28Dkbonk",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765009563.0,
+    "mcap": "N/A",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800560",
+    "name": "CENJAK",
+    "ca": "p2dmJJa1uFPV5MdArsCi9mroBWUMTFau9ooBrfspump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765009563.0,
+    "mcap": "2.56K",
+    "mentions": "4",
+    "time_since_open": "3\u79d2"
+  },
+  {
+    "id": "800561",
+    "name": "ship",
+    "ca": "BWCphNohrp4ahviUnoVYCxRTr88saLKK5rpUYtqQpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765009564.0,
+    "mcap": "27.08K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800562",
+    "name": "SAD",
+    "ca": "BW35PKghAaR7wPAN29ZLY3kNBMgCrBV3hPULLeHwpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765009569.0,
+    "mcap": "3.66K",
+    "mentions": "1",
+    "time_since_open": "1\u520616\u79d2"
+  },
+  {
+    "id": "800568",
+    "name": "EUJAK",
+    "ca": "np2cxjZWvZtodPrV79Lr44T6iV7LwcRJYbZtD6Spump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010463.0,
+    "mcap": "386.60K",
+    "mentions": "1",
+    "time_since_open": "1\u520624\u79d2"
+  },
+  {
+    "id": "800569",
+    "name": "EUJAK",
+    "ca": "np2cxjZWvZtodPrV79Lr44T6iV7LwcRJYbZtD6Spump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010463.0,
+    "mcap": "386.60K",
+    "mentions": "2",
+    "time_since_open": "1\u520624\u79d2"
+  },
+  {
+    "id": "800570",
+    "name": "Dogcoin",
+    "ca": "Bm75utdgjbbqJ7e3iXywrCVP1pchHhAqVa2x7U68pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010463.0,
+    "mcap": "198.29K",
+    "mentions": "11",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "800571",
+    "name": "Dogcoin",
+    "ca": "Bm75utdgjbbqJ7e3iXywrCVP1pchHhAqVa2x7U68pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010463.0,
+    "mcap": "198.29K",
+    "mentions": "12",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "800572",
+    "name": "Dogcoin",
+    "ca": "Bm75utdgjbbqJ7e3iXywrCVP1pchHhAqVa2x7U68pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010463.0,
+    "mcap": "198.29K",
+    "mentions": "13",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "800573",
+    "name": "ORION",
+    "ca": "9gVCk7dVM4YBxceGoPJrbjK6VdTT1fG6yzRg7c8Npump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010468.0,
+    "mcap": "33.83K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800574",
+    "name": "LUCARIO",
+    "ca": "JiXe4fpPLGYLum1Z1S3UygtLjoG7neFoqjYbfX9pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010468.0,
+    "mcap": "410.46K",
+    "mentions": "3",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "800575",
+    "name": "EUJAK",
+    "ca": "np2cxjZWvZtodPrV79Lr44T6iV7LwcRJYbZtD6Spump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010468.0,
+    "mcap": "387.02K",
+    "mentions": "3",
+    "time_since_open": "1\u520624\u79d2"
+  },
+  {
+    "id": "800576",
+    "name": "LUCARIO",
+    "ca": "JiXe4fpPLGYLum1Z1S3UygtLjoG7neFoqjYbfX9pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010468.0,
+    "mcap": "410.46K",
+    "mentions": "4",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "800577",
+    "name": "USDEC",
+    "ca": "ANgFz8DMKXUee8KnzuLPAHjhnZ4fomRagmygkWkzpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010468.0,
+    "mcap": "358.81K",
+    "mentions": "6",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "800578",
+    "name": "chub",
+    "ca": "BmV2q3cjAUEx9MAuzsL2W5N6PRxeGgLWskEzCPANpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010473.0,
+    "mcap": "20.14K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "800579",
+    "name": "EUJAK",
+    "ca": "np2cxjZWvZtodPrV79Lr44T6iV7LwcRJYbZtD6Spump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010473.0,
+    "mcap": "353.81K",
+    "mentions": "4",
+    "time_since_open": "1\u520624\u79d2"
+  },
+  {
+    "id": "800580",
+    "name": "Dogcoin",
+    "ca": "Bm75utdgjbbqJ7e3iXywrCVP1pchHhAqVa2x7U68pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010492.0,
+    "mcap": "198.19K",
+    "mentions": "14",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "800581",
+    "name": "EUJAK",
+    "ca": "np2cxjZWvZtodPrV79Lr44T6iV7LwcRJYbZtD6Spump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765010492.0,
+    "mcap": "402.91K",
+    "mentions": "5",
+    "time_since_open": "1\u520624\u79d2"
+  },
+  {
     "id": "800535",
     "name": "FOS",
     "ca": "8WJNTRfNtvVpceDnV9gbtE6DM6RdmF4tgK79zWxjTUZe",
@@ -798,205 +998,5 @@
     "mcap": "69.63K",
     "mentions": "4",
     "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800431",
-    "name": "Dogcoin",
-    "ca": "Bm75utdgjbbqJ7e3iXywrCVP1pchHhAqVa2x7U68pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000595.0,
-    "mcap": "69.63K",
-    "mentions": "5",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800432",
-    "name": "cummies",
-    "ca": "EsHi7xpwAedPz8vw4WU1mteTzHgbZF7Anrb5o8xCpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000595.0,
-    "mcap": "92.21K",
-    "mentions": "13",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "800433",
-    "name": "Fottie",
-    "ca": "ErkvhLm1osKzcAJ39Q7w7d9tQwGG48JzrfKxZHVApump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000595.0,
-    "mcap": "17.40K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800434",
-    "name": "Franklifts",
-    "ca": "5ahbKeycQ9AsQ9vkN9DtzW9EWesG6HvAEe6AeWY8pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000596.0,
-    "mcap": "125.82K",
-    "mentions": "6",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800435",
-    "name": "Superman",
-    "ca": "Es89L3t5YBtbzcr5AUpZLafNBpP5KCKPKWLmLZJ8pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000600.0,
-    "mcap": "45.93K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800436",
-    "name": "Chonk",
-    "ca": "BNHX9pNkZho31fiEiRsYmWNc1N7CWp3vSxQsy732pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000600.0,
-    "mcap": "16.63K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800437",
-    "name": "CC",
-    "ca": "HGs1YAW9byXGZXwA33juHKfkJPKamy4K9sxvjAqmpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000600.0,
-    "mcap": "12.59K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800438",
-    "name": "Chonk",
-    "ca": "BNHX9pNkZho31fiEiRsYmWNc1N7CWp3vSxQsy732pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000600.0,
-    "mcap": "16.63K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800439",
-    "name": "Superman",
-    "ca": "Es89L3t5YBtbzcr5AUpZLafNBpP5KCKPKWLmLZJ8pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000644.0,
-    "mcap": "46.27K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800440",
-    "name": "eu",
-    "ca": "CFk35vmFJYgA4cqK24EssBovzt69ApUJx3BZe8W9vEzj",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000667.0,
-    "mcap": "21.65K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800441",
-    "name": "Superman",
-    "ca": "Es89L3t5YBtbzcr5AUpZLafNBpP5KCKPKWLmLZJ8pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000675.0,
-    "mcap": "45.39K",
-    "mentions": "4",
-    "time_since_open": "9\u79d2"
-  },
-  {
-    "id": "800442",
-    "name": "Superman",
-    "ca": "Es89L3t5YBtbzcr5AUpZLafNBpP5KCKPKWLmLZJ8pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000689.0,
-    "mcap": "45.33K",
-    "mentions": "5",
-    "time_since_open": "9\u79d2"
-  },
-  {
-    "id": "800443",
-    "name": "Superman",
-    "ca": "Es89L3t5YBtbzcr5AUpZLafNBpP5KCKPKWLmLZJ8pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765000695.0,
-    "mcap": "43.02K",
-    "mentions": "6",
-    "time_since_open": "9\u79d2"
-  },
-  {
-    "id": "800447",
-    "name": "eu",
-    "ca": "CFk35vmFJYgA4cqK24EssBovzt69ApUJx3BZe8W9vEzj",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765001460.0,
-    "mcap": "3.91K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800448",
-    "name": "Dogcoin",
-    "ca": "Bm75utdgjbbqJ7e3iXywrCVP1pchHhAqVa2x7U68pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765001461.0,
-    "mcap": "137.15K",
-    "mentions": "6",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800449",
-    "name": "EUTARD",
-    "ca": "EsWXgAMqSHydE4FYwb3VLZk2yGavWj1g8o68YKUbpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765001461.0,
-    "mcap": "26.93K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "800450",
-    "name": "Dogcoin",
-    "ca": "Bm75utdgjbbqJ7e3iXywrCVP1pchHhAqVa2x7U68pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765001462.0,
-    "mcap": "137.15K",
-    "mentions": "7",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800451",
-    "name": "Dogcoin",
-    "ca": "Bm75utdgjbbqJ7e3iXywrCVP1pchHhAqVa2x7U68pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765001462.0,
-    "mcap": "137.15K",
-    "mentions": "8",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800452",
-    "name": "Dogcoin",
-    "ca": "Bm75utdgjbbqJ7e3iXywrCVP1pchHhAqVa2x7U68pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765001465.0,
-    "mcap": "137.15K",
-    "mentions": "9",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "800453",
-    "name": "EUTARD",
-    "ca": "EsWXgAMqSHydE4FYwb3VLZk2yGavWj1g8o68YKUbpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765001466.0,
-    "mcap": "26.93K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
   }
 ]
