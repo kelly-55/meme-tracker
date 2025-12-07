@@ -1,5 +1,35 @@
 [
   {
+    "id": "801755",
+    "name": "USEDBOAT",
+    "ca": "5zk3m9E5ZByKZAfMTj1N4yyg3e6AoRkLrYbfgRm7bonk",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765124824.0,
+    "mcap": "N/A",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "801756",
+    "name": "ANALYST",
+    "ca": "BCaBbYYkB2kCrYFReJZmRJu33ykdnHQC6KCsxQiApump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765124830.0,
+    "mcap": "25.23K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "801757",
+    "name": "WHITE",
+    "ca": "Dr7r38EvuFzezm9FhHgVw6eaPjGNRaj9JMAknAprpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765124836.0,
+    "mcap": "66.64K",
+    "mentions": "3",
+    "time_since_open": "14\u520656\u79d2"
+  },
+  {
     "id": "801733",
     "name": "69",
     "ca": "DPD8EZXKvL8UQhiXf6bBfctZ6nocKghNGjg4VG8uJuAj",
@@ -967,36 +997,6 @@
     "timestamp": 1765110380.0,
     "mcap": "298.51K",
     "mentions": "16",
-    "time_since_open": "29\u79d2"
-  },
-  {
-    "id": "801614",
-    "name": "sminem",
-    "ca": "Ep4jkFscaesdnJjgEvCotMgSZ5PgHow1XaZcebeMpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765110380.0,
-    "mcap": "298.51K",
-    "mentions": "17",
-    "time_since_open": "29\u79d2"
-  },
-  {
-    "id": "801615",
-    "name": "OG",
-    "ca": "ua5YCk26YhBdiKoMNmeBGNZzh2LUPS5aBdEvgespump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765110380.0,
-    "mcap": "2.68K",
-    "mentions": "3",
-    "time_since_open": "3\u520640\u79d2"
-  },
-  {
-    "id": "801616",
-    "name": "sminem",
-    "ca": "Ep4jkFscaesdnJjgEvCotMgSZ5PgHow1XaZcebeMpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765110384.0,
-    "mcap": "298.51K",
-    "mentions": "18",
     "time_since_open": "29\u79d2"
   }
 ]
