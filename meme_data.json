@@ -1,5 +1,15 @@
 [
   {
+    "id": "801690",
+    "name": "JEFF",
+    "ca": "GA6tp8UJBHr9d235LA7erHDHzFgUvum8D46fRLxypump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765117605.0,
+    "mcap": "44.11K",
+    "mentions": "3",
+    "time_since_open": "28\u79d2"
+  },
+  {
     "id": "801678",
     "name": "URSULA",
     "ca": "DGRY6svVFm5X9eVkTm2pVseVgMxqFYeES7GuK8Gzbonk",
@@ -988,15 +998,5 @@
     "mcap": "111.00K",
     "mentions": "6",
     "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "801552",
-    "name": "King",
-    "ca": "Hp5bhNXfWZqJnFyG91Dzdr8KLALoqFcTLehMaVWSpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765104100.0,
-    "mcap": "11.33K",
-    "mentions": "4",
-    "time_since_open": "\u6682\u65e0"
   }
 ]
