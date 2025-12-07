@@ -1,5 +1,45 @@
 [
   {
+    "id": "801507",
+    "name": "Trinity",
+    "ca": "FHTv3vL4kgNYUdv74xnqL5FLF9W5kLjVfxFeWLq7pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765099577.0,
+    "mcap": "369.38K",
+    "mentions": "9",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "801508",
+    "name": "Trinity",
+    "ca": "FHTv3vL4kgNYUdv74xnqL5FLF9W5kLjVfxFeWLq7pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765099577.0,
+    "mcap": "369.38K",
+    "mentions": "10",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "801509",
+    "name": "COCO",
+    "ca": "2oKSDMDfFa64KZArXpg2ax72PtbHuuGuYSKGVyVapump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765099577.0,
+    "mcap": "35.82K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "801510",
+    "name": "COCO",
+    "ca": "2oKSDMDfFa64KZArXpg2ax72PtbHuuGuYSKGVyVapump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765099577.0,
+    "mcap": "35.82K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "801492",
     "name": "Trinity",
     "ca": "FHTv3vL4kgNYUdv74xnqL5FLF9W5kLjVfxFeWLq7pump",
@@ -958,45 +998,5 @@
     "mcap": "94.33K",
     "mentions": "5",
     "time_since_open": "4\u79d2"
-  },
-  {
-    "id": "801391",
-    "name": "REICH",
-    "ca": "5zqadq5P7vcW2sKYhTLwEHx4ZVjkyVHzAiV2t26d37cJ",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765085198.0,
-    "mcap": "92.53K",
-    "mentions": "6",
-    "time_since_open": "4\u79d2"
-  },
-  {
-    "id": "801392",
-    "name": "REICH",
-    "ca": "5zqadq5P7vcW2sKYhTLwEHx4ZVjkyVHzAiV2t26d37cJ",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765085198.0,
-    "mcap": "92.53K",
-    "mentions": "7",
-    "time_since_open": "4\u79d2"
-  },
-  {
-    "id": "801393",
-    "name": "REICH",
-    "ca": "5zqadq5P7vcW2sKYhTLwEHx4ZVjkyVHzAiV2t26d37cJ",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765085198.0,
-    "mcap": "92.53K",
-    "mentions": "8",
-    "time_since_open": "4\u79d2"
-  },
-  {
-    "id": "801394",
-    "name": "M2",
-    "ca": "HArGAns1ZmB8q4pH8mCeGeK2Y3htQHr4CrFhM96Wbonk",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765085217.0,
-    "mcap": "61.46K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
   }
 ]
