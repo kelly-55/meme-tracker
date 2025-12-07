@@ -1,5 +1,25 @@
 [
   {
+    "id": "801370",
+    "name": "QUANTAGENT",
+    "ca": "GovbzFQAsXk8rGy5SL54u5Tw6rGaUGnqEypSUDfwswrm",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765083392.0,
+    "mcap": "187.60K",
+    "mentions": "4",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "801371",
+    "name": "M2",
+    "ca": "HArGAns1ZmB8q4pH8mCeGeK2Y3htQHr4CrFhM96Wbonk",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765083392.0,
+    "mcap": "42.24K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "801349",
     "name": "GROKTOR",
     "ca": "EuJtDzUnVYzwrjxHtvKYH2gTstGez1e5Z5Gka2p5pump",
@@ -978,25 +998,5 @@
     "mcap": "14.10K",
     "mentions": "1",
     "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "801117",
-    "name": "w1n",
-    "ca": "GPogzEkasH51Pm5tRhDhk1EDF1b5RJUMEzhkfrkDbonk",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765061808.0,
-    "mcap": "N/A",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "801118",
-    "name": "PDog",
-    "ca": "7bU5YHcvVXvhPe4Jbfa259j3tkjWteyw6syKUMgapump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765061808.0,
-    "mcap": "99.71K",
-    "mentions": "5",
-    "time_since_open": "7\u79d2"
   }
 ]
