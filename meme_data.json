@@ -1,5 +1,25 @@
 [
   {
+    "id": "802635",
+    "name": "ANALYST",
+    "ca": "BCaBbYYkB2kCrYFReJZmRJu33ykdnHQC6KCsxQiApump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765188219.0,
+    "mcap": "109.34K",
+    "mentions": "11",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "802637",
+    "name": "HAMTARO",
+    "ca": "9g27vwmK9Z9NaMCaGNUXrByoxh8nJa4jKSfEVKH24biC",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765189050.0,
+    "mcap": "49.00K",
+    "mentions": "4",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "802622",
     "name": "HAMTARO",
     "ca": "9g27vwmK9Z9NaMCaGNUXrByoxh8nJa4jKSfEVKH24biC",
@@ -977,26 +997,6 @@
     "timestamp": 1765178369.0,
     "mcap": "31.57K",
     "mentions": "8",
-    "time_since_open": "33\u79d2"
-  },
-  {
-    "id": "802515",
-    "name": "Keonne",
-    "ca": "5d7qJ2MvPZGZ3wuEy1daqYSp1RF5MuH9y8J6KjZgPhbn",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765178389.0,
-    "mcap": "242.88K",
-    "mentions": "11",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "802516",
-    "name": "Pok",
-    "ca": "BfMhGz1H4pEWcBKmAUUMKZwUBky6Rd43sNHu1KTFRC68",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765178486.0,
-    "mcap": "34.40K",
-    "mentions": "9",
     "time_since_open": "33\u79d2"
   }
 ]
