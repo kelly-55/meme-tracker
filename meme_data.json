@@ -1,5 +1,95 @@
 [
   {
+    "id": "802673",
+    "name": "USDWC",
+    "ca": "DtQZaaJWgVq2oLLhDSMitMKQzhHooCqA243ugQ2mpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765193164.0,
+    "mcap": "70.70K",
+    "mentions": "4",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "802674",
+    "name": "Asternaut",
+    "ca": "3j918mKbPTp923NkzmQ8gvGrrSqeQ3EHLLgXyNuUpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765193164.0,
+    "mcap": "4.05K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "802675",
+    "name": "USDWC",
+    "ca": "DtQZaaJWgVq2oLLhDSMitMKQzhHooCqA243ugQ2mpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765193164.0,
+    "mcap": "72.89K",
+    "mentions": "5",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "802676",
+    "name": "Cambodia",
+    "ca": "GEoZ6eXg5w1NhPihxW4phiMFVeSnNRvPKKaciBo2pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765193832.0,
+    "mcap": "29.22K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "802677",
+    "name": "Cambodia",
+    "ca": "GEoZ6eXg5w1NhPihxW4phiMFVeSnNRvPKKaciBo2pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765193832.0,
+    "mcap": "27.94K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "802678",
+    "name": "FROGE",
+    "ca": "AMCHpR1F5gKt6msk9j9aDBjKUSmgyAxhymbZhjkypump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765193832.0,
+    "mcap": "184.73K",
+    "mentions": "11",
+    "time_since_open": "6\u79d2"
+  },
+  {
+    "id": "802679",
+    "name": "FROGE",
+    "ca": "AMCHpR1F5gKt6msk9j9aDBjKUSmgyAxhymbZhjkypump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765193832.0,
+    "mcap": "184.73K",
+    "mentions": "12",
+    "time_since_open": "6\u79d2"
+  },
+  {
+    "id": "802680",
+    "name": "FROGE",
+    "ca": "AMCHpR1F5gKt6msk9j9aDBjKUSmgyAxhymbZhjkypump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765193833.0,
+    "mcap": "184.73K",
+    "mentions": "13",
+    "time_since_open": "6\u79d2"
+  },
+  {
+    "id": "802681",
+    "name": "ORQIS",
+    "ca": "5HXs33E9jJEAobXzSyHZUQVicuYM2LqmAuoop5iYpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765193914.0,
+    "mcap": "8.36K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "802662",
     "name": "YOLO",
     "ca": "2DcXCTE64prRxY9VvPZbRUUHqABNtDys5WnNpESVpump",
@@ -908,95 +998,5 @@
     "mcap": "208.81K",
     "mentions": "1",
     "time_since_open": "4\u79d2"
-  },
-  {
-    "id": "802525",
-    "name": "ZEN",
-    "ca": "ACSBrUfqvr9ixLDEKG8ytGXMbWuzDASrPoT2WYihpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765179371.0,
-    "mcap": "191.75K",
-    "mentions": "15",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "802526",
-    "name": "Beastopia",
-    "ca": "37AEXmqJFHBKmah6uBTbBTCYjibEA2H8BDzmpCXvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765179371.0,
-    "mcap": "23.91K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "802527",
-    "name": "Beastopia",
-    "ca": "37AEXmqJFHBKmah6uBTbBTCYjibEA2H8BDzmpCXvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765179371.0,
-    "mcap": "23.91K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "802528",
-    "name": "Lucky",
-    "ca": "551gXhyQpN8N6EVScD12oRgT2WRyxBkY8Zm4tzuzpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765179376.0,
-    "mcap": "54.09K",
-    "mentions": "5",
-    "time_since_open": "12\u79d2"
-  },
-  {
-    "id": "802529",
-    "name": "Scrappy",
-    "ca": "8bySuCHrvD6ysi7edY7ARSmrb29HYHHHdv9mG9obpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765179377.0,
-    "mcap": "16.50K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "802530",
-    "name": "Harriet",
-    "ca": "5htGfZRwNCR4wr3ZBDNhmRVWCiKFAcTTmS74WNZcpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765179385.0,
-    "mcap": "207.88K",
-    "mentions": "2",
-    "time_since_open": "4\u79d2"
-  },
-  {
-    "id": "802532",
-    "name": "Beastopia",
-    "ca": "37AEXmqJFHBKmah6uBTbBTCYjibEA2H8BDzmpCXvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765179788.0,
-    "mcap": "24.87K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "802533",
-    "name": "Brapcoin",
-    "ca": "G8YbRgCBJTqNz7B1YEoTxQR1NDnsX9GHs37qKGR4pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765179788.0,
-    "mcap": "80.65K",
-    "mentions": "7",
-    "time_since_open": "4\u79d2"
-  },
-  {
-    "id": "802534",
-    "name": "PRVT",
-    "ca": "yhTd5ay9wnYWU5Pf6YncgEPA7ybpnqhdLT9poqhchat",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765179788.0,
-    "mcap": "181.88K",
-    "mentions": "5",
-    "time_since_open": "6\u79d2"
   }
 ]
