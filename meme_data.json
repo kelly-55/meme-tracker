@@ -1,5 +1,15 @@
 [
   {
+    "id": "804107",
+    "name": "rc",
+    "ca": "AstxXFf1RXbNY8wdaTnmyMUsMryXhUGMtSoToE8pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765301507.0,
+    "mcap": "60.47K",
+    "mentions": "1",
+    "time_since_open": "9\u79d2"
+  },
+  {
     "id": "804085",
     "name": "SWIMMING",
     "ca": "2FB8jqUh4U6ijyzoWJE21tMHXyR2XXX4oHdcJSTx2npK",
@@ -987,16 +997,6 @@
     "timestamp": 1765290533.0,
     "mcap": "42.80K",
     "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "803976",
-    "name": "A",
-    "ca": "HxhkGUBCJDqeA5xYuSjKYmKPDovfJsZaUszgWMLk9kwp",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765288723.0,
-    "mcap": "N/A",
-    "mentions": "2",
     "time_since_open": "\u6682\u65e0"
   }
 ]
