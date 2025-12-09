@@ -1,5 +1,15 @@
 [
   {
+    "id": "804177",
+    "name": "GENI",
+    "ca": "AwFGR688FfCLzdPLkcoDAhhrRBzqzaFwhemZMsbBpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765307677.0,
+    "mcap": "21.34K",
+    "mentions": "7",
+    "time_since_open": "9\u520624\u79d2"
+  },
+  {
     "id": "804156",
     "name": "BabyAGI",
     "ca": "D2eyhjXSUFG7YrcJtXzKBd1ajVoAordApG1s27vBpump",
@@ -988,15 +998,5 @@
     "mcap": "45.59K",
     "mentions": "1",
     "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "804058",
-    "name": "PVE",
-    "ca": "9H5qyMg3owfdnKKko1YNp3uvtmjwfSQZe358gVKPpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765296857.0,
-    "mcap": "45.59K",
-    "mentions": "2",
-    "time_since_open": "8\u79d2"
   }
 ]
