@@ -1,5 +1,15 @@
 [
   {
+    "id": "803643",
+    "name": "SADGE",
+    "ca": "8mCYtxU9bvXMvHwoBMjzUGSG9zAg4kgS1Bc5m4rVpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765266217.0,
+    "mcap": "34.43K",
+    "mentions": "3",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "803614",
     "name": "MrRain",
     "ca": "xL1muj3GrN8nF8Yq1Lhr4aYBjdZbQDkmJfvhvvzpump",
@@ -988,15 +998,5 @@
     "mcap": "N/A",
     "mentions": "4",
     "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "803511",
-    "name": "ICE",
-    "ca": "HopGeTEbxTPyjPCriTCraaARmSaykCR9WZVx48pTzLU",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765256799.0,
-    "mcap": "48.30K",
-    "mentions": "6",
-    "time_since_open": "5\u79d2"
   }
 ]
