@@ -1,5 +1,55 @@
 [
   {
+    "id": "805635",
+    "name": "2C1B",
+    "ca": "AdYn9tYdw3oHqV2j3uBMtEByuZwWUMCCw4FWckVPpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765439622.0,
+    "mcap": "34.10K",
+    "mentions": "6",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "805636",
+    "name": "Sirius",
+    "ca": "AsZNonDAqKVjD94odh5BbEmLTpkB158uBX8APJ9Gpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765439622.0,
+    "mcap": "33.31K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "805637",
+    "name": "2C1B",
+    "ca": "AdYn9tYdw3oHqV2j3uBMtEByuZwWUMCCw4FWckVPpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765439622.0,
+    "mcap": "34.10K",
+    "mentions": "7",
+    "time_since_open": "5\u79d2"
+  },
+  {
+    "id": "805638",
+    "name": "5",
+    "ca": "ETUbGFe7nPZhRbDs9iNTH6TuFsinCs26RySsdUVPJb67",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765439622.0,
+    "mcap": "448.75K",
+    "mentions": "20",
+    "time_since_open": "6\u79d2"
+  },
+  {
+    "id": "805639",
+    "name": "5",
+    "ca": "ETUbGFe7nPZhRbDs9iNTH6TuFsinCs26RySsdUVPJb67",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765439623.0,
+    "mcap": "455.25K",
+    "mentions": "21",
+    "time_since_open": "6\u79d2"
+  },
+  {
     "id": "805612",
     "name": "SPIFF",
     "ca": "8yDs85LX1kv94zsfjtQxC3PU8ZC9M7YCG6nqq9gtpump",
@@ -948,55 +998,5 @@
     "mcap": "80.41K",
     "mentions": "12",
     "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "805567",
-    "name": "Shitcoin",
-    "ca": "9pu2kzdnRmpJUeQVd6ZgVuS8wEMVYHBr8s18RBmApump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765434461.0,
-    "mcap": "32.80K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "805568",
-    "name": "UNKNOWN",
-    "ca": "FwjWwAVjbjisoAfhQSRpx9f4S9ZxuGNVEgCVBfm5pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765434468.0,
-    "mcap": "5.75M",
-    "mentions": "2",
-    "time_since_open": "56\u79d2"
-  },
-  {
-    "id": "805569",
-    "name": "BOXABL",
-    "ca": "H2yHLoC24dM5v1Vjh2Poqx7fZ9mp8EfR2MYseXScpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765434493.0,
-    "mcap": "661.71K",
-    "mentions": "7",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "805570",
-    "name": "BOXABL",
-    "ca": "H2yHLoC24dM5v1Vjh2Poqx7fZ9mp8EfR2MYseXScpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765434517.0,
-    "mcap": "657.51K",
-    "mentions": "8",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "805571",
-    "name": "Shitcoin",
-    "ca": "9pu2kzdnRmpJUeQVd6ZgVuS8wEMVYHBr8s18RBmApump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765434531.0,
-    "mcap": "33.37K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
   }
 ]
