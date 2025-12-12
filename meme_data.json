@@ -1,5 +1,35 @@
 [
   {
+    "id": "807085",
+    "name": "Kaomoji",
+    "ca": "7GbsRon6UHawUP7RjRTEE9tLXmHS3dzNGT5uM4hypump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765550982.0,
+    "mcap": "41.65K",
+    "mentions": "4",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "807086",
+    "name": "ACCOIN",
+    "ca": "4Xp2BL2gHSSEdnVFHu6qYE36mtrotYndcw3vJyeGpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765550982.0,
+    "mcap": "76.30K",
+    "mentions": "7",
+    "time_since_open": "13\u79d2"
+  },
+  {
+    "id": "807087",
+    "name": "Gary",
+    "ca": "ERPZtBtQywpmT67Lx9K3ie382TQdn5FQQ8BzGbW85FPw",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765550982.0,
+    "mcap": "N/A",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "807070",
     "name": "XAG",
     "ca": "EWWq19y1ig73sA54eooWLGLmk6WdmshGr7Fqt9jFpump",
@@ -968,35 +998,5 @@
     "mcap": "50.51K",
     "mentions": "6",
     "time_since_open": "23\u79d2"
-  },
-  {
-    "id": "806946",
-    "name": "Deadcoin",
-    "ca": "8SZ1ehGJwiUMn5hRAgLTvWAESENeM5nxaL6Pd3G6pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765541465.0,
-    "mcap": "90.37K",
-    "mentions": "13",
-    "time_since_open": "9\u79d2"
-  },
-  {
-    "id": "806947",
-    "name": "joey",
-    "ca": "3q7r7rTtkSkMEtmsQ7bPG3h6xW4burDXTEWF5xDEpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765541534.0,
-    "mcap": "67.56K",
-    "mentions": "3",
-    "time_since_open": "1\u52066\u79d2"
-  },
-  {
-    "id": "806948",
-    "name": "Deadcoin",
-    "ca": "8SZ1ehGJwiUMn5hRAgLTvWAESENeM5nxaL6Pd3G6pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765541540.0,
-    "mcap": "97.70K",
-    "mentions": "14",
-    "time_since_open": "9\u79d2"
   }
 ]
