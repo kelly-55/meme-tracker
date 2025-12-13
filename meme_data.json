@@ -1,5 +1,75 @@
 [
   {
+    "id": "808109",
+    "name": "SPICYCOIN",
+    "ca": "GqmnFaQEtGdKMN5P6w4RP31z95YEvPvkDMCUZ5dMpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765658067.0,
+    "mcap": "3.78K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808110",
+    "name": "RETARD",
+    "ca": "zsbCZjR1ccePZB1UTirFgc8dgJCZ6TVEQi2zUhxpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765658067.0,
+    "mcap": "26.22K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808111",
+    "name": "cas",
+    "ca": "5VwhTtRXBdgwwLG5otSq62jdNDm62VC9J72dhC3rpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765658067.0,
+    "mcap": "224.06K",
+    "mentions": "11",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "808112",
+    "name": "RETARD",
+    "ca": "zsbCZjR1ccePZB1UTirFgc8dgJCZ6TVEQi2zUhxpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765658067.0,
+    "mcap": "26.22K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808113",
+    "name": "RETARD",
+    "ca": "zsbCZjR1ccePZB1UTirFgc8dgJCZ6TVEQi2zUhxpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765658068.0,
+    "mcap": "26.22K",
+    "mentions": "3",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808114",
+    "name": "2011",
+    "ca": "ArUkA8m93VZ1kFpbfapfgF6KPrK6YEGhEXbvXFqUpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765658073.0,
+    "mcap": "30.88K",
+    "mentions": "4",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808115",
+    "name": "RETARD",
+    "ca": "zsbCZjR1ccePZB1UTirFgc8dgJCZ6TVEQi2zUhxpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765658098.0,
+    "mcap": "25.25K",
+    "mentions": "4",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "808092",
     "name": "SPERM",
     "ca": "73vRKSN3nFQDMUBhHFsp2aPEiGHuK8tmEVNiJDzapump",
@@ -927,76 +997,6 @@
     "timestamp": 1765648188.0,
     "mcap": "N/A",
     "mentions": "4",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808015",
-    "name": "GMBLN",
-    "ca": "2tNrxSsnyHbw3JVBzhEX5RWtSBE8S5LpahQU45uNpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765648189.0,
-    "mcap": "19.93K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808016",
-    "name": "LockIn",
-    "ca": "DnSzFW3hCBydQ1vnjqMnGyh2sE77DCmkF1bjoXXMpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765648217.0,
-    "mcap": "19.17K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808017",
-    "name": "2026",
-    "ca": "CQ1eU5VLsw2WyaDgVJPDBb1RyroeZoJaMeRaNkwtpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765648223.0,
-    "mcap": "30.32K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808018",
-    "name": "2026",
-    "ca": "CQ1eU5VLsw2WyaDgVJPDBb1RyroeZoJaMeRaNkwtpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765648246.0,
-    "mcap": "27.40K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808006",
-    "name": "SPANKMAS",
-    "ca": "BMMWMuy1ZFBtDEzzdBvtrNvMZFetcGUfkrdDAYo3pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765647267.0,
-    "mcap": "114.52K",
-    "mentions": "3",
-    "time_since_open": "12\u79d2"
-  },
-  {
-    "id": "808007",
-    "name": "USA",
-    "ca": "DHgWDSnkCZfL1CKCb435kamGc7koXycFMyhZnehDo2Lv",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765647267.0,
-    "mcap": "N/A",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808008",
-    "name": "Penny",
-    "ca": "3ZvNq7iv7gsk3eG6oeaJhN789oNJ5xWeaN7teCfhpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765647267.0,
-    "mcap": "3.71K",
-    "mentions": "1",
     "time_since_open": "\u6682\u65e0"
   }
 ]
