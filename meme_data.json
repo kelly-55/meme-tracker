@@ -1,5 +1,85 @@
 [
   {
+    "id": "808138",
+    "name": "RATIO",
+    "ca": "12xc4csg7LWCTzkyQ7TCSC6s68rsJLtJsN8yrYQypump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765661699.0,
+    "mcap": "2.75K",
+    "mentions": "1",
+    "time_since_open": "6\u79d2"
+  },
+  {
+    "id": "808139",
+    "name": "Senpai",
+    "ca": "FZ5x1n14tBD55mTMuJa7YSsMCKP9TDCCfzEoBUsSbked",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765661699.0,
+    "mcap": "13.42K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808140",
+    "name": "Hodler",
+    "ca": "CyeRjmsbdXQJ33m5Hm7vUhEdthoi9hz1jpCeHh4cpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765661699.0,
+    "mcap": "70.91K",
+    "mentions": "8",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "808141",
+    "name": "COFFEE",
+    "ca": "9yErJb5afx44NopkoAJ5EMZC9d43xsbPXKiAqih1pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765661699.0,
+    "mcap": "20.01K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808142",
+    "name": "SPERM",
+    "ca": "73vRKSN3nFQDMUBhHFsp2aPEiGHuK8tmEVNiJDzapump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765661700.0,
+    "mcap": "46.99K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808143",
+    "name": "BOXBABY",
+    "ca": "2Q7yTKXimoSS3tTKF9RGt7SEXrtUHQr7DB1FZFMRpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765661706.0,
+    "mcap": "34.59K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808144",
+    "name": "RATIO",
+    "ca": "12xc4csg7LWCTzkyQ7TCSC6s68rsJLtJsN8yrYQypump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765661707.0,
+    "mcap": "2.75K",
+    "mentions": "2",
+    "time_since_open": "6\u79d2"
+  },
+  {
+    "id": "808145",
+    "name": "NYNM",
+    "ca": "GYR7DhBXajYoXwchf9hg6Xo192VvYWMSJFQVA5gepump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765661707.0,
+    "mcap": "9.64K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "808126",
     "name": "Good",
     "ca": "H6X2ha6EEnhhNpinFMV6GB4QmT51JbL2MDJC73eTpump",
@@ -918,85 +998,5 @@
     "mcap": "66.12K",
     "mentions": "3",
     "time_since_open": "16\u79d2"
-  },
-  {
-    "id": "808047",
-    "name": "2026",
-    "ca": "CQ1eU5VLsw2WyaDgVJPDBb1RyroeZoJaMeRaNkwtpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765650952.0,
-    "mcap": "46.47K",
-    "mentions": "10",
-    "time_since_open": "9\u79d2"
-  },
-  {
-    "id": "808048",
-    "name": "Cena",
-    "ca": "HNyJqUhVzhF8LJAfcDn2qqrZZVJVQRPvr9SmZuK8pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765650952.0,
-    "mcap": "66.12K",
-    "mentions": "4",
-    "time_since_open": "16\u79d2"
-  },
-  {
-    "id": "808049",
-    "name": "Mollie",
-    "ca": "CU5tqLHmxZRPqV42RDBeQVAmMF4ujKsYPFtSnDn6dnSQ",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765651858.0,
-    "mcap": "4.59K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808050",
-    "name": "Craftify",
-    "ca": "CCuTBKcPerdseejrrrHvRR21UXAXk2VWUW23vg61pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765651858.0,
-    "mcap": "20.92K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808051",
-    "name": "Craftify",
-    "ca": "CCuTBKcPerdseejrrrHvRR21UXAXk2VWUW23vg61pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765651859.0,
-    "mcap": "20.92K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808052",
-    "name": "Athena",
-    "ca": "EegYQPAgnNLvPLR9tsui3iY99578a5UkRuoaX6ecpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765651859.0,
-    "mcap": "61.61K",
-    "mentions": "1",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "808053",
-    "name": "Reze",
-    "ca": "5RncjvjvLkVVHDCaKrPvvSDQofxJmZyhcJaRsmNopump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765651859.0,
-    "mcap": "166.98K",
-    "mentions": "12",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "808019",
-    "name": "DEVILON",
-    "ca": "G9hN5mDneKsPvEU8DwxtTbwEt2JFL7VpUSQ3sqgLpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765649146.0,
-    "mcap": "273.52K",
-    "mentions": "3",
-    "time_since_open": "13\u52067\u79d2"
   }
 ]
