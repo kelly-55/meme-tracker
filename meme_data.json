@@ -1,5 +1,65 @@
 [
   {
+    "id": "808006",
+    "name": "SPANKMAS",
+    "ca": "BMMWMuy1ZFBtDEzzdBvtrNvMZFetcGUfkrdDAYo3pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765647267.0,
+    "mcap": "114.52K",
+    "mentions": "3",
+    "time_since_open": "12\u79d2"
+  },
+  {
+    "id": "808007",
+    "name": "USA",
+    "ca": "DHgWDSnkCZfL1CKCb435kamGc7koXycFMyhZnehDo2Lv",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765647267.0,
+    "mcap": "N/A",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808008",
+    "name": "Penny",
+    "ca": "3ZvNq7iv7gsk3eG6oeaJhN789oNJ5xWeaN7teCfhpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765647267.0,
+    "mcap": "3.71K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808009",
+    "name": "bag",
+    "ca": "7f6FwCi1UyXzCEzmW5eqdqb6rL1bHmdx22bRfW6Fpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765647267.0,
+    "mcap": "17.38K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808010",
+    "name": "WHITEHOUSE",
+    "ca": "HpBW3bnSQx9ywe8ZbPQtgeFxPoxFPXBNwy9rNXRLbonk",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765647268.0,
+    "mcap": "N/A",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808011",
+    "name": "2026",
+    "ca": "CQ1eU5VLsw2WyaDgVJPDBb1RyroeZoJaMeRaNkwtpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765647274.0,
+    "mcap": "24.36K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "807983",
     "name": "HERO",
     "ca": "Gbz4HzY4KunK96e8dART7GhbV4bEjYSUXEA2cy2qpump",
@@ -938,65 +998,5 @@
     "mcap": "18.14K",
     "mentions": "9",
     "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "807904",
-    "name": "caricature",
-    "ca": "G5C9P35GKUFewPt9kKhsQaDWcsdWtJRCSEEo2gQ5pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765634664.0,
-    "mcap": "24.70K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "807905",
-    "name": "STC",
-    "ca": "BzV9dEdQjv4GMrbU5jF8cNjSwveqiTDkMQeMUFCepump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765634665.0,
-    "mcap": "81.38K",
-    "mentions": "2",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "807906",
-    "name": "67AIRLINES",
-    "ca": "CnmgV9kPzTEdwSmaH57gXQCZV925VKHyQvUCLCF2pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765634665.0,
-    "mcap": "2.96K",
-    "mentions": "1",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "807907",
-    "name": "SALORY",
-    "ca": "76tSDUgtb8o9Ptk6BEFeatU4FnowJD1gGxYknnFpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765634669.0,
-    "mcap": "1.03M",
-    "mentions": "1",
-    "time_since_open": "11\u52068\u79d2"
-  },
-  {
-    "id": "807908",
-    "name": "67AIRLINES",
-    "ca": "CnmgV9kPzTEdwSmaH57gXQCZV925VKHyQvUCLCF2pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765634669.0,
-    "mcap": "2.96K",
-    "mentions": "2",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "807909",
-    "name": "LIGHTSOFF",
-    "ca": "ENVfcuJwR1omepKo4ap7MJSoaQ2zbXmRN8Ztvi7zpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765634669.0,
-    "mcap": "92.55K",
-    "mentions": "2",
-    "time_since_open": "8\u79d2"
   }
 ]
