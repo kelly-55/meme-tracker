@@ -1,5 +1,75 @@
 [
   {
+    "id": "809126",
+    "name": "tulipcoin",
+    "ca": "CPhm1pFSt9p2v2XJghJWQR4WVu32VjKj5H8yKRNEpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765756205.0,
+    "mcap": "3.70K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809127",
+    "name": "PVE",
+    "ca": "AxVPF8ZKBGw9xXSvM12jYQAJLLdhkrUQsxpFRQS2pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765756205.0,
+    "mcap": "30.78K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809128",
+    "name": "PVE",
+    "ca": "AxVPF8ZKBGw9xXSvM12jYQAJLLdhkrUQsxpFRQS2pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765756205.0,
+    "mcap": "30.78K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809129",
+    "name": "PVE",
+    "ca": "AxVPF8ZKBGw9xXSvM12jYQAJLLdhkrUQsxpFRQS2pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765756205.0,
+    "mcap": "30.78K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809130",
+    "name": "KFH",
+    "ca": "GQx3p7aTHLQHDqzFR3c1QSk1Qhy2hz4YbAnkjdXtpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765756205.0,
+    "mcap": "19.19K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809131",
+    "name": "KFH",
+    "ca": "GQx3p7aTHLQHDqzFR3c1QSk1Qhy2hz4YbAnkjdXtpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765756212.0,
+    "mcap": "19.19K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809132",
+    "name": "Hapster",
+    "ca": "5KPDJ1vpDaqHdtaMQAtexUrUV2khtqxjGmFzYPfSpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765756213.0,
+    "mcap": "36.99K",
+    "mentions": "1",
+    "time_since_open": "8\u79d2"
+  },
+  {
     "id": "809116",
     "name": "MINOY",
     "ca": "yBSVoBSUd6xj7Ucecmbkne28Mc6m3ovfJaDmfyupump",
@@ -927,76 +997,6 @@
     "timestamp": 1765746287.0,
     "mcap": "23.73K",
     "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "809030",
-    "name": "pvp",
-    "ca": "4JzRhTv6FebWHDZQhrTYuw1PB7oFAggucjU8RMPGpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765747183.0,
-    "mcap": "10.69K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "809031",
-    "name": "Siu",
-    "ca": "DbxbsB93jFgk7REJ8Ft2i2LYUeksy7QxBp4WnQNuUCJ9",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765747183.0,
-    "mcap": "N/A",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "809032",
-    "name": "Chancoin",
-    "ca": "5Q3GurcbZdJWG9vYRRXezvNV4Shyoqw4GRwPtV81pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765747183.0,
-    "mcap": "82.31K",
-    "mentions": "1",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "809033",
-    "name": "pvp",
-    "ca": "4JzRhTv6FebWHDZQhrTYuw1PB7oFAggucjU8RMPGpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765747183.0,
-    "mcap": "10.69K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "809034",
-    "name": "Degen",
-    "ca": "3oCk1oMLpycub3ArsLdTXrMKgfzqmjHpMCKAXvaepump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765747183.0,
-    "mcap": "14.82K",
-    "mentions": "9",
-    "time_since_open": "14\u520617\u79d2"
-  },
-  {
-    "id": "809035",
-    "name": "BONKED",
-    "ca": "HPrTAzpERhagrmeCQV4E6JcCtMaf59J1MK4seQAApump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765747187.0,
-    "mcap": "25.03K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "809036",
-    "name": "4CHN",
-    "ca": "5iRNJntokvwXDCqw2sC25gBvGBSmwRjXUpiEkWpcpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765747187.0,
-    "mcap": "3.78K",
-    "mentions": "1",
     "time_since_open": "\u6682\u65e0"
   }
 ]
