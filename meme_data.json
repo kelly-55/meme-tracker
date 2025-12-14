@@ -1,5 +1,45 @@
 [
   {
+    "id": "808416",
+    "name": "niggerfish",
+    "ca": "GFCHcVy1Ac96F4NtovZEa4fazChfjWAozWirmkPCKw71",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765687773.0,
+    "mcap": "39.42K",
+    "mentions": "5",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "808417",
+    "name": "Smug",
+    "ca": "FwUmG3d8adE7Wi2d3eiYLSCVAcadWQpmpmeyRJBFpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765687773.0,
+    "mcap": "42.14K",
+    "mentions": "4",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808418",
+    "name": "niggerfish",
+    "ca": "GFCHcVy1Ac96F4NtovZEa4fazChfjWAozWirmkPCKw71",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765687773.0,
+    "mcap": "39.42K",
+    "mentions": "6",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "808419",
+    "name": "niggerfish",
+    "ca": "GFCHcVy1Ac96F4NtovZEa4fazChfjWAozWirmkPCKw71",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765687773.0,
+    "mcap": "39.42K",
+    "mentions": "7",
+    "time_since_open": "9\u79d2"
+  },
+  {
     "id": "808398",
     "name": "BOXY",
     "ca": "AbCWQc2TCSCF4hAT1CQqvMTswW41A3NYMrnja1JVpump",
@@ -958,45 +998,5 @@
     "mcap": "24.10K",
     "mentions": "10",
     "time_since_open": "12\u79d2"
-  },
-  {
-    "id": "808228",
-    "name": "SPLIT",
-    "ca": "6rcw7BDe73gGp2XearuCueMsJjqktkMAdaRXB4rkpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765668912.0,
-    "mcap": "3.73K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808205",
-    "name": "DERP",
-    "ca": "CGWyXfi3gfHBurhaxZDBZ1ASMbQgQPcfWJYCEiykpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765668001.0,
-    "mcap": "32.75K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808206",
-    "name": "DERP",
-    "ca": "CGWyXfi3gfHBurhaxZDBZ1ASMbQgQPcfWJYCEiykpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765668001.0,
-    "mcap": "32.75K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808207",
-    "name": "Degen",
-    "ca": "3oCk1oMLpycub3ArsLdTXrMKgfzqmjHpMCKAXvaepump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765668001.0,
-    "mcap": "119.46K",
-    "mentions": "7",
-    "time_since_open": "14\u520617\u79d2"
   }
 ]
