@@ -1,5 +1,25 @@
 [
   {
+    "id": "808440",
+    "name": "JOLLYGUY",
+    "ca": "4BT7VEGycFbqxU1t7FHMU3LJ4eZUJumYjAgoMWXDpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765690473.0,
+    "mcap": "29.45K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808441",
+    "name": "BASEDBOT",
+    "ca": "3ZJ7C2jJhavcobYztTVqLLuX23hxrG1AMkTPG7GBpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765690473.0,
+    "mcap": "24.42K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "808420",
     "name": "Smug",
     "ca": "FwUmG3d8adE7Wi2d3eiYLSCVAcadWQpmpmeyRJBFpump",
@@ -977,26 +997,6 @@
     "timestamp": 1765669770.0,
     "mcap": "20.16K",
     "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808232",
-    "name": "BertCoin",
-    "ca": "AfscB41dn4q9NsF7ej2FDFCzov6qmmPQNqtBhuhgpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765669770.0,
-    "mcap": "194.10K",
-    "mentions": "5",
-    "time_since_open": "41\u520627\u79d2"
-  },
-  {
-    "id": "808233",
-    "name": "UpCat",
-    "ca": "5TC61bjUi4NhvyowePvdzL36dn61kBMiACm1c7DSpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765669770.0,
-    "mcap": "20.16K",
-    "mentions": "2",
     "time_since_open": "\u6682\u65e0"
   }
 ]
