@@ -1,5 +1,55 @@
 [
   {
+    "id": "808954",
+    "name": "smorf",
+    "ca": "ErotAoyRh13PVMj1cS19Z72CZ54w4fXfvsHc1NZCpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765739982.0,
+    "mcap": "27.88K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808955",
+    "name": "Dorian",
+    "ca": "D9n7fTyYMNpuozTFg7WuYi8kTRc2UoayX6FRa8q5pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765739982.0,
+    "mcap": "16.23K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808956",
+    "name": "NICHE",
+    "ca": "AVpuZCkCwvzz5pvsyumE2aEDAAd4uC3qxjpkY9TGpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765739983.0,
+    "mcap": "12.15K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "808957",
+    "name": "PFCFIGHT",
+    "ca": "BiZoaSeqqAfbr1K5GCJxjVjAQ49GfynvaqtjgTScpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765739983.0,
+    "mcap": "59.23K",
+    "mentions": "1",
+    "time_since_open": "14\u79d2"
+  },
+  {
+    "id": "808958",
+    "name": "Dumplings",
+    "ca": "H4PX9wgRzU1y5pf3L3VxmAu32hJiRwsRxYBCJdbhpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765739983.0,
+    "mcap": "130.10K",
+    "mentions": "14",
+    "time_since_open": "16\u79d2"
+  },
+  {
     "id": "808944",
     "name": "smorf",
     "ca": "ErotAoyRh13PVMj1cS19Z72CZ54w4fXfvsHc1NZCpump",
@@ -947,56 +997,6 @@
     "timestamp": 1765731887.0,
     "mcap": "54.32K",
     "mentions": "3",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "808862",
-    "name": "NITAMA",
-    "ca": "DvHLaGy4Lt2j5g2JDezw5HKxv7aThAa2NohVnJNUpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765731888.0,
-    "mcap": "54.32K",
-    "mentions": "2",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "808863",
-    "name": "Hamie-Chan",
-    "ca": "AUGLuWru4KeuPhoY331EAeHztza8MA38mq4VeUR7pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765731888.0,
-    "mcap": "28.97K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808864",
-    "name": "Hamie-Chan",
-    "ca": "AUGLuWru4KeuPhoY331EAeHztza8MA38mq4VeUR7pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765731888.0,
-    "mcap": "28.97K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "808848",
-    "name": "Aura",
-    "ca": "FHeSsH1wWBGVRGQHWAcsFFD2FLXjwnZDcV2z8NxWpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765730979.0,
-    "mcap": "113.45K",
-    "mentions": "18",
-    "time_since_open": "14\u79d2"
-  },
-  {
-    "id": "808849",
-    "name": "HERO",
-    "ca": "C8qZfziFAyL6GmzrL7oDWdsSps9wBm3J3S1bcEuDpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765730979.0,
-    "mcap": "490.68K",
-    "mentions": "13",
     "time_since_open": "6\u79d2"
   }
 ]
