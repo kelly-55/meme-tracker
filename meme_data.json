@@ -1,5 +1,125 @@
 [
   {
+    "id": "809506",
+    "name": "SOLANA",
+    "ca": "4csw6aXJJdacnQrRe8n3zQaXcBEKp3MsuwJSMTSoLANA",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765790335.0,
+    "mcap": "11.26K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809507",
+    "name": "ORBS",
+    "ca": "3oZnJZAH8EDJyFxA1xv2L1DJY6r54yFsdTbPTpWBpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765790434.0,
+    "mcap": "302.29K",
+    "mentions": "5",
+    "time_since_open": "11\u79d2"
+  },
+  {
+    "id": "809508",
+    "name": "FARTMAIL",
+    "ca": "65RZkKegNj65oSnaJrUhWCiCiVPP2KRuFPM8gHs8pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765790586.0,
+    "mcap": "92.40K",
+    "mentions": "9",
+    "time_since_open": "13\u79d2"
+  },
+  {
+    "id": "809509",
+    "name": "ALICE",
+    "ca": "JDoJRbxSkY2EZX36w4ZSfy5ajhmKELtNQvxdntqXpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765790909.0,
+    "mcap": "157.47K",
+    "mentions": "8",
+    "time_since_open": "6\u79d2"
+  },
+  {
+    "id": "809510",
+    "name": "ok",
+    "ca": "F1h8SDKjX6P3pTNzuJYv1VhrEjbtMh76UZYRwiXjpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765790909.0,
+    "mcap": "191.57K",
+    "mentions": "15",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "809511",
+    "name": "SOLANA",
+    "ca": "4csw6aXJJdacnQrRe8n3zQaXcBEKp3MsuwJSMTSoLANA",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765790936.0,
+    "mcap": "20.24K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809512",
+    "name": "CookieMonster",
+    "ca": "2jGUnXuuuV3h9Um9S8UKCnJTaVvA73RPq3jSxRP3pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765791279.0,
+    "mcap": "47.94K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809513",
+    "name": "CookieMonster",
+    "ca": "2jGUnXuuuV3h9Um9S8UKCnJTaVvA73RPq3jSxRP3pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765791279.0,
+    "mcap": "47.94K",
+    "mentions": "3",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809514",
+    "name": "SURF",
+    "ca": "SurfwRjQQFV6P7JdhxSptf4CjWU8sb88rUiaLCystar",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765791279.0,
+    "mcap": "2.86M",
+    "mentions": "4",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809515",
+    "name": "Crungo",
+    "ca": "4jjZZziGzdHZxyQcNXpbLh123aEmLafy6RfSpqN2pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765791279.0,
+    "mcap": "15.76K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809516",
+    "name": "TRENDCOIN",
+    "ca": "9Pk2Yjbd9ZZ9hzPaaCuDT5HTTBnCfezaVnmUkdnEpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765791280.0,
+    "mcap": "25.77K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "809517",
+    "name": "FARTMAIL",
+    "ca": "65RZkKegNj65oSnaJrUhWCiCiVPP2KRuFPM8gHs8pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765791288.0,
+    "mcap": "126.05K",
+    "mentions": "10",
+    "time_since_open": "13\u79d2"
+  },
+  {
     "id": "809478",
     "name": "BIP",
     "ca": "G5gG7ZkL46ksHa3CQpeKSpAUW2fDi78bXExDoSL2pump",
@@ -878,125 +998,5 @@
     "mcap": "100.80K",
     "mentions": "2",
     "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "809392",
-    "name": "Christmasify",
-    "ca": "3ozHzRw7dMQ2S2e2FXUto1CRtC6BxyPqHp7mctxfpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765779694.0,
-    "mcap": "8.59K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "809393",
-    "name": "memecoin",
-    "ca": "EA5k5J6Qa69M9RX98toMA3PSAGSURwb62YvSFE1upump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765779702.0,
-    "mcap": "30.83K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "809394",
-    "name": "memecoin",
-    "ca": "EA5k5J6Qa69M9RX98toMA3PSAGSURwb62YvSFE1upump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765779720.0,
-    "mcap": "26.30K",
-    "mentions": "4",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "809395",
-    "name": "memecoin",
-    "ca": "EA5k5J6Qa69M9RX98toMA3PSAGSURwb62YvSFE1upump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765779924.0,
-    "mcap": "49.97K",
-    "mentions": "5",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "809396",
-    "name": "memecoin",
-    "ca": "EA5k5J6Qa69M9RX98toMA3PSAGSURwb62YvSFE1upump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765779924.0,
-    "mcap": "49.45K",
-    "mentions": "6",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "809397",
-    "name": "memecoin",
-    "ca": "EA5k5J6Qa69M9RX98toMA3PSAGSURwb62YvSFE1upump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765779990.0,
-    "mcap": "48.56K",
-    "mentions": "7",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "809398",
-    "name": "memecoin",
-    "ca": "EA5k5J6Qa69M9RX98toMA3PSAGSURwb62YvSFE1upump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765779990.0,
-    "mcap": "48.56K",
-    "mentions": "8",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "809399",
-    "name": "memecoin",
-    "ca": "EA5k5J6Qa69M9RX98toMA3PSAGSURwb62YvSFE1upump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765779990.0,
-    "mcap": "48.07K",
-    "mentions": "9",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "809400",
-    "name": "Christmasify",
-    "ca": "3ozHzRw7dMQ2S2e2FXUto1CRtC6BxyPqHp7mctxfpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765779991.0,
-    "mcap": "23.18K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "809401",
-    "name": "Christmasify",
-    "ca": "3ozHzRw7dMQ2S2e2FXUto1CRtC6BxyPqHp7mctxfpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765780284.0,
-    "mcap": "7.68K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "809402",
-    "name": "memecoin",
-    "ca": "EA5k5J6Qa69M9RX98toMA3PSAGSURwb62YvSFE1upump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765780284.0,
-    "mcap": "52.01K",
-    "mentions": "10",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "809403",
-    "name": "sonify",
-    "ca": "GUGHSnd419XFs79f1FaHQaM4pDAz9WAeTBcWmrnnpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765780284.0,
-    "mcap": "24.77K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
   }
 ]
