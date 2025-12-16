@@ -1,5 +1,15 @@
 [
   {
+    "id": "810732",
+    "name": "peppin",
+    "ca": "3R5vCcRyNW6p3SdHa3yP3WTwfCGVySsu3bFCqoZwpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765896200.0,
+    "mcap": "129.04K",
+    "mentions": "9",
+    "time_since_open": "38\u79d2"
+  },
+  {
     "id": "810682",
     "name": "Peppen",
     "ca": "AA172Xx1v3UcADGmsNMPuzAqKPjhGwioijGD3uNepump",
@@ -988,15 +998,5 @@
     "mcap": "49.75K",
     "mentions": "3",
     "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "810617",
-    "name": "PENGU",
-    "ca": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885320.0,
-    "mcap": "788.01M",
-    "mentions": "39",
-    "time_since_open": "34\u592915\u5c0f\u65f645\u5206"
   }
 ]
