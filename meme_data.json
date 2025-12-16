@@ -1,5 +1,195 @@
 [
   {
+    "id": "810733",
+    "name": "JustDance",
+    "ca": "vHXESjiNEfP8ZVyza9SPa7y6Hf5qxJQenKZAACmpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765897100.0,
+    "mcap": "2.63K",
+    "mentions": "1",
+    "time_since_open": "10\u520630\u79d2"
+  },
+  {
+    "id": "810734",
+    "name": "minipippin",
+    "ca": "BxseCKcLhNJiZHxqtE3ui3ccSizLATKNDbuM2rmpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765897101.0,
+    "mcap": "19.84K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "810735",
+    "name": "minipippin",
+    "ca": "BxseCKcLhNJiZHxqtE3ui3ccSizLATKNDbuM2rmpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765897101.0,
+    "mcap": "19.84K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "810736",
+    "name": "feel",
+    "ca": "8AaApHAyQXFGL2NonT1qfVjugrheVphATya2Z3z3pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765897101.0,
+    "mcap": "24.01K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "810737",
+    "name": "feel",
+    "ca": "8AaApHAyQXFGL2NonT1qfVjugrheVphATya2Z3z3pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765897101.0,
+    "mcap": "24.01K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "810738",
+    "name": "feel",
+    "ca": "8AaApHAyQXFGL2NonT1qfVjugrheVphATya2Z3z3pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765897105.0,
+    "mcap": "24.22K",
+    "mentions": "3",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "810739",
+    "name": "POLYFUN",
+    "ca": "6dfi4C89FGHVWt8UzLyKYWnbADqjCMMh7ASu5dyUpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765897105.0,
+    "mcap": "19.67K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "810740",
+    "name": "Memes",
+    "ca": "CtN2k8YBUCaribQHWwEYJ6dEhAzSzGCyw4qyWhwWpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765897105.0,
+    "mcap": "284.02K",
+    "mentions": "20",
+    "time_since_open": "13\u79d2"
+  },
+  {
+    "id": "810741",
+    "name": "Memes",
+    "ca": "CtN2k8YBUCaribQHWwEYJ6dEhAzSzGCyw4qyWhwWpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765897105.0,
+    "mcap": "284.02K",
+    "mentions": "21",
+    "time_since_open": "13\u79d2"
+  },
+  {
+    "id": "810742",
+    "name": "PKT",
+    "ca": "2qjvsdQXLqKpeB4Wp3zkpovaf4vvuHteyrAFGa2Zpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765898000.0,
+    "mcap": "44.56K",
+    "mentions": "1",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "810743",
+    "name": "GROOKEY",
+    "ca": "GvPzygryWg4EXKNdYTo79jwBswAB3RMaaz9uXkLmpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765898000.0,
+    "mcap": "3.61K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "810744",
+    "name": "feel",
+    "ca": "8AaApHAyQXFGL2NonT1qfVjugrheVphATya2Z3z3pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765898000.0,
+    "mcap": "26.58K",
+    "mentions": "4",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "810745",
+    "name": "TB",
+    "ca": "UCifjLNbe1Lbv33UMDo5CbwrA4EKgagCWVFSM33pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765898001.0,
+    "mcap": "236.74K",
+    "mentions": "1",
+    "time_since_open": "55\u79d2"
+  },
+  {
+    "id": "810746",
+    "name": "Beat",
+    "ca": "91LugnCzw3ipyHoke6PDsBBaWuG3ywWZbjqGgoiDpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765898002.0,
+    "mcap": "71.14K",
+    "mentions": "3",
+    "time_since_open": "11\u79d2"
+  },
+  {
+    "id": "810747",
+    "name": "UVC",
+    "ca": "9BcNLzoV9CPRxyN4x1srwQysoVxyRn6HsYrYCcpXpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765898008.0,
+    "mcap": "35.11K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "810748",
+    "name": "Beat",
+    "ca": "91LugnCzw3ipyHoke6PDsBBaWuG3ywWZbjqGgoiDpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765898008.0,
+    "mcap": "71.14K",
+    "mentions": "2",
+    "time_since_open": "11\u79d2"
+  },
+  {
+    "id": "810749",
+    "name": "Beat",
+    "ca": "91LugnCzw3ipyHoke6PDsBBaWuG3ywWZbjqGgoiDpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765898021.0,
+    "mcap": "74.26K",
+    "mentions": "4",
+    "time_since_open": "11\u79d2"
+  },
+  {
+    "id": "810750",
+    "name": "Beat",
+    "ca": "91LugnCzw3ipyHoke6PDsBBaWuG3ywWZbjqGgoiDpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765898033.0,
+    "mcap": "70.30K",
+    "mentions": "5",
+    "time_since_open": "11\u79d2"
+  },
+  {
+    "id": "810751",
+    "name": "TB",
+    "ca": "UCifjLNbe1Lbv33UMDo5CbwrA4EKgagCWVFSM33pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765898047.0,
+    "mcap": "124.44K",
+    "mentions": "2",
+    "time_since_open": "55\u79d2"
+  },
+  {
     "id": "810732",
     "name": "peppin",
     "ca": "3R5vCcRyNW6p3SdHa3yP3WTwfCGVySsu3bFCqoZwpump",
@@ -808,195 +998,5 @@
     "mcap": "77.20K",
     "mentions": "7",
     "time_since_open": "13\u79d2"
-  },
-  {
-    "id": "810622",
-    "name": "Alone",
-    "ca": "3ivVoCT5E2jE2FjDUmTYCaXnSGyxZVAf3zLX7Anupump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885731.0,
-    "mcap": "136.75K",
-    "mentions": "15",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "810623",
-    "name": "pumpin",
-    "ca": "Cq8CgEUaCE46dDvr5gaVdb2SixcYVRGX7ZAAH1QLpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885731.0,
-    "mcap": "68.71K",
-    "mentions": "1",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "810624",
-    "name": "pumpin",
-    "ca": "Cq8CgEUaCE46dDvr5gaVdb2SixcYVRGX7ZAAH1QLpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885735.0,
-    "mcap": "68.71K",
-    "mentions": "2",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "810625",
-    "name": "Memes",
-    "ca": "CtN2k8YBUCaribQHWwEYJ6dEhAzSzGCyw4qyWhwWpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885735.0,
-    "mcap": "75.50K",
-    "mentions": "8",
-    "time_since_open": "13\u79d2"
-  },
-  {
-    "id": "810626",
-    "name": "pumpin",
-    "ca": "Cq8CgEUaCE46dDvr5gaVdb2SixcYVRGX7ZAAH1QLpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885736.0,
-    "mcap": "65.44K",
-    "mentions": "3",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "810627",
-    "name": "pumpin",
-    "ca": "Cq8CgEUaCE46dDvr5gaVdb2SixcYVRGX7ZAAH1QLpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885753.0,
-    "mcap": "70.06K",
-    "mentions": "4",
-    "time_since_open": "6\u79d2"
-  },
-  {
-    "id": "810628",
-    "name": "Memes",
-    "ca": "CtN2k8YBUCaribQHWwEYJ6dEhAzSzGCyw4qyWhwWpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885771.0,
-    "mcap": "89.10K",
-    "mentions": "9",
-    "time_since_open": "13\u79d2"
-  },
-  {
-    "id": "810629",
-    "name": "CAT",
-    "ca": "LS82FLGSoSvYoPkBJyzzwWEeqi63jttsK2TFK7Spump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885771.0,
-    "mcap": "19.25K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "810606",
-    "name": "HEROSANTA",
-    "ca": "7saD2Gu7QNfL2etaDYkPV8AdMJFdYm6gBdNPFfsBpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765884576.0,
-    "mcap": "8.76K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "810607",
-    "name": "MAGA",
-    "ca": "EECACVyG8A1KMD7WtWYSmq3gtp4sjvrxiJNz8vWYbonk",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765884777.0,
-    "mcap": "N/A",
-    "mentions": "11",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "810608",
-    "name": "PVP",
-    "ca": "9y3kbntJFvcaL4Y8BByAh2jVxsVGbbCujDiDNBR9pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885286.0,
-    "mcap": "20.12K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "810609",
-    "name": "SASHA",
-    "ca": "BiAQHYo5Y1umMRbuupdoksKuk6pVbQEHs8fJf8UYpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885286.0,
-    "mcap": "242.53K",
-    "mentions": "14",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "810610",
-    "name": "jpeg",
-    "ca": "Dt6CoPvC2MEaBH4r6hthhVdec7UGt3NJrZUAmjcnpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885286.0,
-    "mcap": "24.85K",
-    "mentions": "5",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "810611",
-    "name": "PVP",
-    "ca": "9y3kbntJFvcaL4Y8BByAh2jVxsVGbbCujDiDNBR9pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885286.0,
-    "mcap": "20.46K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "810612",
-    "name": "Memes",
-    "ca": "CtN2k8YBUCaribQHWwEYJ6dEhAzSzGCyw4qyWhwWpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885286.0,
-    "mcap": "37.50K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "810613",
-    "name": "Alone",
-    "ca": "3ivVoCT5E2jE2FjDUmTYCaXnSGyxZVAf3zLX7Anupump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885293.0,
-    "mcap": "149.86K",
-    "mentions": "13",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "810614",
-    "name": "Alone",
-    "ca": "3ivVoCT5E2jE2FjDUmTYCaXnSGyxZVAf3zLX7Anupump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885300.0,
-    "mcap": "147.97K",
-    "mentions": "14",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "810615",
-    "name": "Memes",
-    "ca": "CtN2k8YBUCaribQHWwEYJ6dEhAzSzGCyw4qyWhwWpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885305.0,
-    "mcap": "49.97K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "810616",
-    "name": "Memes",
-    "ca": "CtN2k8YBUCaribQHWwEYJ6dEhAzSzGCyw4qyWhwWpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765885320.0,
-    "mcap": "49.75K",
-    "mentions": "3",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
   }
 ]
