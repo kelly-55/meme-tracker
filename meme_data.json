@@ -1,5 +1,45 @@
 [
   {
+    "id": "811567",
+    "name": "DiscoHamm",
+    "ca": "voaU3uMQXJTUwyZZ68Kv3sSUukM4QE4yTbBwvZ3pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765970911.0,
+    "mcap": "202.42K",
+    "mentions": "2",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "811568",
+    "name": "RadioAI",
+    "ca": "FKAZnXLpTZDBhikNLCojuufYzBij4CgB2rb242V2daos",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765970912.0,
+    "mcap": "9.01K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "811569",
+    "name": "DiscoHamm",
+    "ca": "voaU3uMQXJTUwyZZ68Kv3sSUukM4QE4yTbBwvZ3pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765970912.0,
+    "mcap": "203.06K",
+    "mentions": "3",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "811570",
+    "name": "ICE",
+    "ca": "AZSQXhhqFErjpR9gdLgybUmbPYVoVkDjcdDSJGxipump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1765970912.0,
+    "mcap": "27.67K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "811559",
     "name": "KOL",
     "ca": "CoL9vcYpbR2aGzkdSKZE3vwQnsgG8ZS7eqoZqqzPBAGS",
@@ -957,46 +997,6 @@
     "timestamp": 1765958616.0,
     "mcap": "65.43K",
     "mentions": "10",
-    "time_since_open": "3\u520623\u79d2"
-  },
-  {
-    "id": "811459",
-    "name": "GRUGHOUSE",
-    "ca": "2uq21M7GXtjmjKBHm2uopvC7urPeaq4D6u2ZH3ddpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765958622.0,
-    "mcap": "100.03K",
-    "mentions": "4",
-    "time_since_open": "9\u79d2"
-  },
-  {
-    "id": "811460",
-    "name": "PIPPIN",
-    "ca": "FJEHpGCNCEahTqRGBtYFArrevQMAgHE2NUHWUwpippin",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765958782.0,
-    "mcap": "55.03K",
-    "mentions": "15",
-    "time_since_open": "9\u79d2"
-  },
-  {
-    "id": "811461",
-    "name": "BORING",
-    "ca": "h1RFuYceCUNnzwEwoHtV16N5PrbvFfWW3Qy9iJ6pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765958782.0,
-    "mcap": "74.06K",
-    "mentions": "6",
-    "time_since_open": "10\u79d2"
-  },
-  {
-    "id": "811462",
-    "name": "SPARK",
-    "ca": "28KRJBo5MEWQjPkWsoa8UD1WJ3EwHj5CLCRkAMQcpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1765958871.0,
-    "mcap": "81.02K",
-    "mentions": "11",
     "time_since_open": "3\u520623\u79d2"
   }
 ]
