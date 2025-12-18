@@ -1,5 +1,95 @@
 [
   {
+    "id": "812390",
+    "name": "HoG",
+    "ca": "2M6mtcfZfr7uu6EDJXs865Vg9NM9u9W55TNvFFzHpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766051344.0,
+    "mcap": "34.46K",
+    "mentions": "5",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "812391",
+    "name": "Buy",
+    "ca": "4aQwPYGCntVKpFCEUwVB1qpxmxhBsLF56mSKL5njpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766051344.0,
+    "mcap": "1.04K",
+    "mentions": "1",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "812392",
+    "name": "2026",
+    "ca": "4WiNU3qRCQ79d2CsWYDVbWrcff1kLdXH5FMQFg3wpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766051344.0,
+    "mcap": "184.62K",
+    "mentions": "2",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "812393",
+    "name": "2026",
+    "ca": "4WiNU3qRCQ79d2CsWYDVbWrcff1kLdXH5FMQFg3wpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766051344.0,
+    "mcap": "184.62K",
+    "mentions": "3",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "812394",
+    "name": "SOLAR",
+    "ca": "3QJmn2dfoya6GpTG9hBERyPdQMinFfDE52rt6a8Xpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766051345.0,
+    "mcap": "42.88K",
+    "mentions": "1",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "812395",
+    "name": "SOLAR",
+    "ca": "3QJmn2dfoya6GpTG9hBERyPdQMinFfDE52rt6a8Xpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766051350.0,
+    "mcap": "42.88K",
+    "mentions": "2",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "812396",
+    "name": "SOLAR",
+    "ca": "3QJmn2dfoya6GpTG9hBERyPdQMinFfDE52rt6a8Xpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766051350.0,
+    "mcap": "42.88K",
+    "mentions": "3",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "812397",
+    "name": "2026",
+    "ca": "4WiNU3qRCQ79d2CsWYDVbWrcff1kLdXH5FMQFg3wpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766051716.0,
+    "mcap": "214.17K",
+    "mentions": "4",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "812398",
+    "name": "PRVT",
+    "ca": "yhTd5ay9wnYWU5Pf6YncgEPA7ybpnqhdLT9poqhchat",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766051716.0,
+    "mcap": "232.17K",
+    "mentions": "13",
+    "time_since_open": "6\u79d2"
+  },
+  {
     "id": "812377",
     "name": "DAC",
     "ca": "GgrYtjeD4j81FSgAMDUJgWLtwpPnDXGnF38S1nDMpump",
@@ -908,95 +998,5 @@
     "mcap": "34.85K",
     "mentions": "1",
     "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "812292",
-    "name": "DEAD",
-    "ca": "6ePU5WnNjXgFxtxL7EafQ8LaAchkPLRJJqQZvGmsvmAa",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766042848.0,
-    "mcap": "34.85K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "812293",
-    "name": "pulymerket",
-    "ca": "C1JSieeYSvMZpq8oRioJWgxuSHwBo2ahgwcejFEvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766043327.0,
-    "mcap": "46.87K",
-    "mentions": "1",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "812294",
-    "name": "DEAD",
-    "ca": "6ePU5WnNjXgFxtxL7EafQ8LaAchkPLRJJqQZvGmsvmAa",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766043327.0,
-    "mcap": "29.88K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "812295",
-    "name": "pulymerket",
-    "ca": "C1JSieeYSvMZpq8oRioJWgxuSHwBo2ahgwcejFEvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766043327.0,
-    "mcap": "46.87K",
-    "mentions": "2",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "812296",
-    "name": "pulymerket",
-    "ca": "C1JSieeYSvMZpq8oRioJWgxuSHwBo2ahgwcejFEvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766043328.0,
-    "mcap": "46.87K",
-    "mentions": "3",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "812297",
-    "name": "pulymerket",
-    "ca": "C1JSieeYSvMZpq8oRioJWgxuSHwBo2ahgwcejFEvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766043328.0,
-    "mcap": "46.87K",
-    "mentions": "4",
-    "time_since_open": "\u5c0f\u4e8e1\u5206\u949f"
-  },
-  {
-    "id": "812298",
-    "name": "pulymerket",
-    "ca": "C1JSieeYSvMZpq8oRioJWgxuSHwBo2ahgwcejFEvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766043335.0,
-    "mcap": "46.87K",
-    "mentions": "5",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "812299",
-    "name": "pulymerket",
-    "ca": "C1JSieeYSvMZpq8oRioJWgxuSHwBo2ahgwcejFEvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766043338.0,
-    "mcap": "44.85K",
-    "mentions": "6",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "812300",
-    "name": "pulymerket",
-    "ca": "C1JSieeYSvMZpq8oRioJWgxuSHwBo2ahgwcejFEvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766043346.0,
-    "mcap": "42.12K",
-    "mentions": "7",
-    "time_since_open": "8\u79d2"
   }
 ]
