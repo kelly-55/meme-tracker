@@ -1,5 +1,45 @@
 [
   {
+    "id": "813335",
+    "name": "RUSSELL",
+    "ca": "BLEiz5vaRLNRLmGB9QVg1jeKrKfMgFJSY7LrJjMzpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766119747.0,
+    "mcap": "37.79K",
+    "mentions": "4",
+    "time_since_open": "1\u79d2"
+  },
+  {
+    "id": "813336",
+    "name": "RUSSELL",
+    "ca": "BLEiz5vaRLNRLmGB9QVg1jeKrKfMgFJSY7LrJjMzpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766119747.0,
+    "mcap": "37.79K",
+    "mentions": "5",
+    "time_since_open": "1\u79d2"
+  },
+  {
+    "id": "813337",
+    "name": "RUSSELL",
+    "ca": "BLEiz5vaRLNRLmGB9QVg1jeKrKfMgFJSY7LrJjMzpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766119747.0,
+    "mcap": "37.79K",
+    "mentions": "6",
+    "time_since_open": "1\u79d2"
+  },
+  {
+    "id": "813338",
+    "name": "RUSSELL",
+    "ca": "BLEiz5vaRLNRLmGB9QVg1jeKrKfMgFJSY7LrJjMzpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766119748.0,
+    "mcap": "38.10K",
+    "mentions": "7",
+    "time_since_open": "1\u79d2"
+  },
+  {
     "id": "813316",
     "name": "DOMINO",
     "ca": "48fUZ8WfCpqr8Pzbx5r5YExuY2EcE86YqhPiWxqvpump",
@@ -957,46 +997,6 @@
     "timestamp": 1766101916.0,
     "mcap": "25.16K",
     "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "813096",
-    "name": "FUD",
-    "ca": "5ZtxymUCaCGLPCmFwNHGXquYWCNGQ31bq9iMKFwipump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766101946.0,
-    "mcap": "23.74K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "813097",
-    "name": "FUD",
-    "ca": "5ZtxymUCaCGLPCmFwNHGXquYWCNGQ31bq9iMKFwipump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766101972.0,
-    "mcap": "19.27K",
-    "mentions": "4",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "813098",
-    "name": "Dumplings",
-    "ca": "H4PX9wgRzU1y5pf3L3VxmAu32hJiRwsRxYBCJdbhpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766102124.0,
-    "mcap": "376.98K",
-    "mentions": "23",
-    "time_since_open": "16\u79d2"
-  },
-  {
-    "id": "813099",
-    "name": "TAKERU",
-    "ca": "rSDtT97EcixFLqUYf2KH4rLmTYyGx9Z2nzrjRjupump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766102125.0,
-    "mcap": "4.08K",
-    "mentions": "2",
     "time_since_open": "\u6682\u65e0"
   }
 ]
