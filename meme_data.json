@@ -1,5 +1,45 @@
 [
   {
+    "id": "813420",
+    "name": "51",
+    "ca": "B1sxuFimogksop4AkSqkMsFiHFPjbdKPRiTcN9Fw56tA",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766126952.0,
+    "mcap": "N/A",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "813421",
+    "name": "51",
+    "ca": "B1sxuFimogksop4AkSqkMsFiHFPjbdKPRiTcN9Fw56tA",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766126953.0,
+    "mcap": "N/A",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "813422",
+    "name": "http",
+    "ca": "3kTCzNT16y7vkGoCpWKXpbiY93qW4AwiqeynwDqppump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766126953.0,
+    "mcap": "159.94K",
+    "mentions": "8",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "813423",
+    "name": "http",
+    "ca": "3kTCzNT16y7vkGoCpWKXpbiY93qW4AwiqeynwDqppump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766126953.0,
+    "mcap": "159.94K",
+    "mentions": "9",
+    "time_since_open": "9\u79d2"
+  },
+  {
     "id": "813410",
     "name": "ZAUTH",
     "ca": "DNhQZ1CE9qZ2FNrVhsCXwQJ2vZG8ufZkcYakTS5Jpump",
@@ -957,46 +997,6 @@
     "timestamp": 1766116380.0,
     "mcap": "42.72K",
     "mentions": "8",
-    "time_since_open": "14\u79d2"
-  },
-  {
-    "id": "813297",
-    "name": "2026MOON",
-    "ca": "3bCDKrN4pyVEAvzNkH7fX5cMYo9DXwRZ5jCi3Dm8pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766116721.0,
-    "mcap": "403.27K",
-    "mentions": "3",
-    "time_since_open": "10\u79d2"
-  },
-  {
-    "id": "813298",
-    "name": "OI",
-    "ca": "3r7tR6U3hmKgj7nbjsnGuX1BdwXusiSicuhs6hu5pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766116721.0,
-    "mcap": "14.66K",
-    "mentions": "1",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "813299",
-    "name": "OI",
-    "ca": "3r7tR6U3hmKgj7nbjsnGuX1BdwXusiSicuhs6hu5pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766116721.0,
-    "mcap": "14.66K",
-    "mentions": "2",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "813300",
-    "name": "FROG",
-    "ca": "298ySaHzBSDNVbErgQmFxFwvkncGBM1ds3Y3BGnSpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766116721.0,
-    "mcap": "56.43K",
-    "mentions": "9",
     "time_since_open": "14\u79d2"
   }
 ]
