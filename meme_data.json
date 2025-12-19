@@ -1,5 +1,35 @@
 [
   {
+    "id": "814076",
+    "name": "turnip",
+    "ca": "9d6gaSmkBgRiLw7UGKZWzTm1e8FWCCbeM2tmadSspump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766186833.0,
+    "mcap": "58.18K",
+    "mentions": "1",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "814077",
+    "name": "epstoon",
+    "ca": "mizaUgguDpfwGv7aQ7Qw6Texp2K84CQXreqb6iNbonk",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766186833.0,
+    "mcap": "N/A",
+    "mentions": "3",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "814078",
+    "name": "Discobolus",
+    "ca": "2i4pxWnUAbn7wEjes186bVMwjDdscrk1PZyzD4zfpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766186833.0,
+    "mcap": "113.78K",
+    "mentions": "17",
+    "time_since_open": "9\u79d2"
+  },
+  {
     "id": "814056",
     "name": "Peppa",
     "ca": "A8CoSSzrvUXSbVAKqt8CcB2iyWdgCDPd7DSAuYr8tyUo",
@@ -966,36 +996,6 @@
     "channel": "MomentumTrackerCN",
     "timestamp": 1766176893.0,
     "mcap": "15.10K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "813993",
-    "name": "YUREI",
-    "ca": "AbBADaxdQ1LtrU7sN9xvf4326ECSYbsUB37ddbRrpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766176893.0,
-    "mcap": "57.42K",
-    "mentions": "6",
-    "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "813994",
-    "name": "ALIVE",
-    "ca": "hQDHiFSw4FzLxQk51eBTTec3RiJUqibyV1fbfLUpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766176893.0,
-    "mcap": "15.23K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "813995",
-    "name": "Sealion",
-    "ca": "AbhsPbuXX1AQLyyWJsnX62j8bhMuxYGv4S5bM55ipump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766176893.0,
-    "mcap": "18.56K",
     "mentions": "1",
     "time_since_open": "\u6682\u65e0"
   }
