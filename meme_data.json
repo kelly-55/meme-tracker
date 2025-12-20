@@ -1,5 +1,35 @@
 [
   {
+    "id": "814391",
+    "name": "Coin-Meme",
+    "ca": "BBqYTFGCj7Uia5qWHHQmxRx4jhQcFHydEynv2r3ipump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766222792.0,
+    "mcap": "76.62K",
+    "mentions": "13",
+    "time_since_open": "9\u79d2"
+  },
+  {
+    "id": "814392",
+    "name": "SSL",
+    "ca": "2tuw17xp9dBxCW72HFvRAhpawMtc5Lcag3GGBktCpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766222792.0,
+    "mcap": "117.45K",
+    "mentions": "11",
+    "time_since_open": "7\u79d2"
+  },
+  {
+    "id": "814393",
+    "name": "REALMATT",
+    "ca": "HoX484Uk5y58cUGmMbQndpWsmHGQcyLkjFfez5xWAeVR",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766222792.0,
+    "mcap": "N/A",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "814386",
     "name": "FRIES",
     "ca": "7NRYqRyt45zTXEb1qDjgkhm3uhXNo9GP6sD2MaS8t8yk",
@@ -968,35 +998,5 @@
     "mcap": "24.01K",
     "mentions": "2",
     "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "814278",
-    "name": "FINE",
-    "ca": "HwD12SXzq9u11SwpTTkaBiYrxmzK5YvCygzTVaKvpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766208392.0,
-    "mcap": "28.07K",
-    "mentions": "2",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "814279",
-    "name": "Higher",
-    "ca": "AGBYKjR8KkUYwThCEHvvgfXjs92U1KspUfk59HC4pump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766208396.0,
-    "mcap": "24.01K",
-    "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "814280",
-    "name": "SSL",
-    "ca": "2tuw17xp9dBxCW72HFvRAhpawMtc5Lcag3GGBktCpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766208397.0,
-    "mcap": "84.69K",
-    "mentions": "1",
-    "time_since_open": "7\u79d2"
   }
 ]
