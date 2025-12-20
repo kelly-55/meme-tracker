@@ -1,5 +1,45 @@
 [
   {
+    "id": "814265",
+    "name": "goofycoin",
+    "ca": "Aa3DRNjLcPLVK4JDKZLEXFgn8oMpV8zi9mXLMLkppump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766206591.0,
+    "mcap": "3.60K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "814266",
+    "name": "SCAN",
+    "ca": "BTkm68Eun3cpyno8QSbSNVerHWREyhxhb37xjaN9pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766206591.0,
+    "mcap": "53.83K",
+    "mentions": "3",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "814267",
+    "name": "pete",
+    "ca": "9ZNPpMqN2TPm3y28KW6pznfcQTk6DPwcS5fwLKK5pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766206591.0,
+    "mcap": "7.07K",
+    "mentions": "11",
+    "time_since_open": "8\u79d2"
+  },
+  {
+    "id": "814268",
+    "name": "pete",
+    "ca": "9ZNPpMqN2TPm3y28KW6pznfcQTk6DPwcS5fwLKK5pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766206592.0,
+    "mcap": "7.07K",
+    "mentions": "12",
+    "time_since_open": "8\u79d2"
+  },
+  {
     "id": "814253",
     "name": "BENNY",
     "ca": "4YRjChMcSh14jLmHZLZPhHwfhWn7g5CJEjF3Nv1spump",
@@ -957,46 +997,6 @@
     "timestamp": 1766186833.0,
     "mcap": "N/A",
     "mentions": "3",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "814078",
-    "name": "Discobolus",
-    "ca": "2i4pxWnUAbn7wEjes186bVMwjDdscrk1PZyzD4zfpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766186833.0,
-    "mcap": "113.78K",
-    "mentions": "17",
-    "time_since_open": "9\u79d2"
-  },
-  {
-    "id": "814056",
-    "name": "Peppa",
-    "ca": "A8CoSSzrvUXSbVAKqt8CcB2iyWdgCDPd7DSAuYr8tyUo",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766184987.0,
-    "mcap": "94.85K",
-    "mentions": "4",
-    "time_since_open": "8\u79d2"
-  },
-  {
-    "id": "814057",
-    "name": "SMILE",
-    "ca": "AdNBwfU3EhASfzMEAh2WQ66TDZtrtaE3kf5gUUuopump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766184987.0,
-    "mcap": "159.09K",
-    "mentions": "4",
-    "time_since_open": "5\u79d2"
-  },
-  {
-    "id": "814058",
-    "name": "img",
-    "ca": "28aS9SSEGQRqwi3rXsMxcn1tUNw1G2meBCNga8tJpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766184987.0,
-    "mcap": "3.90K",
-    "mentions": "1",
     "time_since_open": "\u6682\u65e0"
   }
 ]
