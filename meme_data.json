@@ -1,5 +1,35 @@
 [
   {
+    "id": "815249",
+    "name": "C-1",
+    "ca": "7JZj5zWM9tNrkvJTXQN9WKb4Bt8rvDDk5qfb5PPmpump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766312807.0,
+    "mcap": "15.92K",
+    "mentions": "3",
+    "time_since_open": "10\u79d2"
+  },
+  {
+    "id": "815250",
+    "name": "Theter",
+    "ca": "CrEpWQgZdSLbcgKq1wW93dKPrsn5f7NXABXQmgkFDhMB",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766312807.0,
+    "mcap": "18.52K",
+    "mentions": "1",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "815251",
+    "name": "Theter",
+    "ca": "CrEpWQgZdSLbcgKq1wW93dKPrsn5f7NXABXQmgkFDhMB",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766312807.0,
+    "mcap": "18.52K",
+    "mentions": "2",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
     "id": "815235",
     "name": "Memes",
     "ca": "9RgsMRGBjJMhppZEV77iDa83KwfZbTmnXSuas2G1pump",
@@ -968,35 +998,5 @@
     "mcap": "33.56K",
     "mentions": "1",
     "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "815137",
-    "name": "ZKSE",
-    "ca": "4YzG3sYnUHRrck5nDcYbfBrYQfpygLdSMoFDRoPXpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766300206.0,
-    "mcap": "15.80K",
-    "mentions": "1",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "815138",
-    "name": "BLUNT",
-    "ca": "E2dV5fA3uVT6DW1P2rYcWGmKPRw2CzV2cttAE53apump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766300207.0,
-    "mcap": "44.43K",
-    "mentions": "4",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "815139",
-    "name": "CARROTS",
-    "ca": "EfjUCuFFkQe3v9dn7ujTFzNMAwbZQGk5tRCbmQQtpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766300212.0,
-    "mcap": "78.25K",
-    "mentions": "5",
-    "time_since_open": "7\u79d2"
   }
 ]
