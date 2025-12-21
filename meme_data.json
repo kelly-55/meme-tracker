@@ -1,5 +1,25 @@
 [
   {
+    "id": "815233",
+    "name": "Kit",
+    "ca": "AZhedEVBLprun552c7ZaApFdt4Pn23DVGastdxvipump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766310106.0,
+    "mcap": "25.10K",
+    "mentions": "4",
+    "time_since_open": "\u6682\u65e0"
+  },
+  {
+    "id": "815234",
+    "name": "Memes",
+    "ca": "9RgsMRGBjJMhppZEV77iDa83KwfZbTmnXSuas2G1pump",
+    "channel": "MomentumTrackerCN",
+    "timestamp": 1766310106.0,
+    "mcap": "77.97K",
+    "mentions": "16",
+    "time_since_open": "9\u79d2"
+  },
+  {
     "id": "815223",
     "name": "BLUNT",
     "ca": "E2dV5fA3uVT6DW1P2rYcWGmKPRw2CzV2cttAE53apump",
@@ -978,25 +998,5 @@
     "mcap": "367.02K",
     "mentions": "12",
     "time_since_open": "7\u79d2"
-  },
-  {
-    "id": "815154",
-    "name": "BLUNT",
-    "ca": "E2dV5fA3uVT6DW1P2rYcWGmKPRw2CzV2cttAE53apump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766301130.0,
-    "mcap": "48.11K",
-    "mentions": "6",
-    "time_since_open": "\u6682\u65e0"
-  },
-  {
-    "id": "815131",
-    "name": "420",
-    "ca": "3265caMF1btAFVyiNRG3HWswjCtpVMQZBnMyxyDmpump",
-    "channel": "MomentumTrackerCN",
-    "timestamp": 1766299306.0,
-    "mcap": "40.16K",
-    "mentions": "9",
-    "time_since_open": "10\u79d2"
   }
 ]
